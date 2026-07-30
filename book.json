@@ -190,7 +190,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -946,7 +946,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -1604,7 +1604,7 @@
     "fb_price": 450000,
     "fb_quantity": 1,
     "sp_price": 652000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Mùa xuân lớp 12, thời điểm các sĩ tử đứng trước ngã rẽ cuộc đời.\n\nIchinose Taichi được xếp vào cùng lớp với Kuze Futaba - người cậu có cảm giác không thể hòa hợp mà chẳng rõ lí do tại sao, cùng Mita Touma - người bạn sống thực tế mà cậu quen từ thuở ấu thơ. Tới một ngày, Futaba nói cho Taichi biết tình cảm của mình dành cho Touma và nhờ cậu giúp đỡ. Taichi sẽ làm gì trước tình cảnh này…!?\n\nCâu chuyện tình cảm thời thanh xuân trong sáng, mới mẻ bắt đầu mở ra!!",
     "video": "https://www.youtube.com/embed/PAx0KUMcs10"
@@ -1660,7 +1660,7 @@
     "fb_price": 450000,
     "fb_quantity": 1,
     "sp_price": 652000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\n\nMùa xuân lớp 12, thời điểm các sĩ tử đứng trước ngã rẽ cuộc đời.\n\nIchinose Taichi được xếp vào cùng lớp với Kuze Futaba - người cậu có cảm giác không thể hòa hợp mà chẳng rõ lí do tại sao, cùng Mita Touma - người bạn sống thực tế mà cậu quen từ thuở ấu thơ. Tới một ngày, Futaba nói cho Taichi biết tình cảm của mình dành cho Touma và nhờ cậu giúp đỡ. Taichi sẽ làm gì trước tình cảnh này…!?\n\nCâu chuyện tình cảm thời thanh xuân trong sáng, mới mẻ bắt đầu mở ra!!",
     "video": ""
@@ -1842,7 +1842,7 @@
     "fb_price": 480000,
     "fb_quantity": 1,
     "sp_price": 695000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -1940,7 +1940,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2010,7 +2010,7 @@
     "fb_price": 380000,
     "fb_quantity": 1,
     "sp_price": 552000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2178,7 +2178,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2262,7 +2262,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2290,7 +2290,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2332,7 +2332,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2346,7 +2346,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2374,7 +2374,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2388,7 +2388,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2402,7 +2402,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2416,7 +2416,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2444,7 +2444,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2570,7 +2570,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2822,7 +2822,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2836,7 +2836,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2934,7 +2934,7 @@
     "fb_price": 400000,
     "fb_quantity": 1,
     "sp_price": 580000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -2948,7 +2948,7 @@
     "fb_price": 350000,
     "fb_quantity": 1,
     "sp_price": 509000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Thanh xuân của người khác là những ngày nắng hạ rực rỡ, hay những làn gió thu mát nhẹ thổi lá vàng rơi ngập sân trường.\n\nCòn thanh xuân của cậu lại là một chiều đông ảm đạm, bước về nhà với ô cửa không sáng đèn, vì chính cha mẹ ruột đã bỏ đi không chút tiếc thương đứa con trai mới vừa mười sáu.\n\nSống không ai hay, chết không ai biết, không siêu thoát, chẳng cam tâm.\n\nNếu tuổi trẻ có thể hai lần thắm lại, nếu ngọn nến sinh mệnh lại được thắp lên, mọi đại giá trên đời Tô Nham đều nguyện trả.\n\nCó ân phải đền, có oán phải báo.\n\nVậy còn, tình yêu khắc cốt ghi tâm của cả một kiếp người, khi gặp lại liệu duyên còn nối?",
     "video": "https://www.youtube.com/embed/-e7O9ffZDlU"
@@ -3116,7 +3116,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3214,7 +3214,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3228,7 +3228,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3242,7 +3242,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3256,7 +3256,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3410,7 +3410,7 @@
     "fb_price": 375000,
     "fb_quantity": 1,
     "sp_price": 545000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Chỉ cần lấp đầy két tiền thì mình sẽ có 1 điều ước.\n\nĐể làm việc đó, các Banker đã không ngừng tranh đấu!!\n\nCROKET cũng vậy!! Vì muốn hồi sinh người cha đã mất, cậu cũng lên đường tìm kiếm những đồng xu cấm!!",
     "video": "https://www.youtube.com/embed/n9Ao2gBejvo"
@@ -3433,8 +3433,8 @@
     "alt": "truyện tranh trọn bộ combo wild life cuộc sống hoang dã",
     "info": "Combo Wild Life - Cuộc Sống Hoang Dã - Trọn Bộ 27 Tập",
     "author": "Masato Fujisaki",
-    "publisher": "",
-    "pk": "",
+    "publisher": "NXB Kim Đồng",
+    "pk": "Không có",
     "fb_price": 675000,
     "fb_quantity": 1,
     "sp_price": "Không hỗ trợ",
@@ -3452,7 +3452,7 @@
     "fb_price": 360000,
     "fb_quantity": 1,
     "sp_price": 523000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Giữa sa mạc ẩn hiện vương quốc Darashaal huyền ảo, nơi ngai vàng của Pháp Vương được kế thừa thông qua đầu thai chuyển kiếp. Pháp Vương đời thứ 42 của Darashaal là cậu thiếu niên 15 tuổi người Nhật Kamishina Futo, luôn tự hào vì tính cách phóng khoáng và hoạt bát…!? Bối rối trước những lời của linh thú bảo hộ Garuda đột nhiên xuất hiện, những ngày tháng đầy sóng gió, hiểm nguy và sôi động của cậu đã bắt đầu!!",
     "video": "https://www.youtube.com/embed/B1QKt5ywyIo"
@@ -3466,7 +3466,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3480,7 +3480,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3536,7 +3536,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3550,9 +3550,9 @@
     "fb_price": "",
     "fb_quantity": "",
     "sp_price": "Không hỗ trợ",
-    "sp_quantity": 0,
+    "sp_quantity": "",
     "sp_link": "",
-    "nd": "#N/A",
+    "nd": "",
     "video": ""
   },
   "cao-thu-doi-den-thay-trang": {
@@ -3704,7 +3704,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3718,7 +3718,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3788,7 +3788,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -3956,7 +3956,7 @@
     "fb_price": "",
     "fb_quantity": "",
     "sp_price": "Không hỗ trợ",
-    "sp_quantity": 0,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -4096,7 +4096,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -4236,7 +4236,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -4250,7 +4250,7 @@
     "fb_price": 490000,
     "fb_quantity": 1,
     "sp_price": 709000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Thần y Công Tôn Sách xuất thân từ thôn Nhã Trúc, dẫn theo đứa con nuôi Tiểu Tứ Tử, trẻ tuổi văn nhã, tuấn mỹ cực độ, xinh đẹp như trích tiên, nhưng tính tình lại chẳng dễ chịu như dung mạo, cực kỳ nóng nảy.\n\nCửu Vương gia Triệu Phổ danh chấn thiên hạ, sở hữu đôi mắt khác màu, cường tráng khỏe mạnh, anh dũng thiện chiến, là Nguyên soái của Đại Tống, nhưng thật ra cũng chỉ là một thanh niên đầu hai mươi cà lơ phất phơ.\n\nCông Tôn nhận lời mời của đồng môn, lên đường đến Khai Phong trị bệnh phong thấp cho lão Hoàng phi, còn Triệu Phổ nghe nói mẫu thân bệnh nặng, chuẩn bị quay về thăm nom, hai người cùng đến một đích, nửa đường gặp nhau.\n\nMột xem đối phương là mọt sách, là thư sinh tay trói gà không chặt, một xem đối phương là man di võ biền, chuyên mang vận xui tới, lại không ngờ, tình cảm lại ươm mầm từ chính những lần cãi cọ ấy…",
     "video": "https://www.youtube.com/embed/xdGXZBIYiQQ"
@@ -4474,7 +4474,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -4628,7 +4628,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -4908,7 +4908,7 @@
     "fb_price": 380000,
     "fb_quantity": 1,
     "sp_price": 552000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -4992,7 +4992,7 @@
     "fb_price": 383000,
     "fb_quantity": 1,
     "sp_price": 556000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -5048,7 +5048,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -5272,7 +5272,7 @@
     "fb_price": 400000,
     "fb_quantity": 1,
     "sp_price": 580000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\n\nYuri, một cô gái vừa bị \"bồ đá\", đang cảm thấy mọi thứ như quay lưng lại với mình thì gặp được người mẹ ruột (?) tưởng đã mất từ lâu, cùng các anh chị em phải nói là nam thanh nữ tú, thuộc một thế giới khác hoàn toàn với cô bé. Cuộc đời cô chính thức bước sang trang mới, với bao sóng gió trực chờ. Nhưng quả ngọt vẫn luôn dành cho người biết sống vì người khác, và không chấp nhận bỏ cuộc...",
     "video": "https://www.youtube.com/embed/nGowUh1hETs"
@@ -5300,7 +5300,7 @@
     "fb_price": 360000,
     "fb_quantity": 1,
     "sp_price": 523000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\n\nBạn đã từng nghe qua chưa?\n\nVề quyển sách ma thuật với cơ chế bánh răng có thể phát tán lời nguyền cho các Vampire...?\n\nGiờ đây, bánh xe cổ tích được \"Cuốn sổ của Vanitas\" dẫn lối đã bắt đầu luân chuyển...",
     "video": "https://www.youtube.com/embed/ZCKze0nTkBs"
@@ -5342,7 +5342,7 @@
     "fb_price": 420000,
     "fb_quantity": 1,
     "sp_price": 609000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\n\nBạn đã từng nghe qua chưa?\n\nVề quyển sách ma thuật với cơ chế bánh răng có thể phát tán lời nguyền cho các Vampire...?\n\nGiờ đây, bánh xe cổ tích được \"Cuốn sổ của Vanitas\" dẫn lối đã bắt đầu luân chuyển...",
     "video": "https://www.youtube.com/embed/ZCKze0nTkBs"
@@ -5412,7 +5412,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -5622,7 +5622,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -5650,7 +5650,7 @@
     "fb_price": 430000,
     "fb_quantity": 1,
     "sp_price": 623000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -5804,7 +5804,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6056,7 +6056,7 @@
     "fb_price": 450000,
     "fb_quantity": 1,
     "sp_price": 652000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\n\nIKIGAMI là những câu chuyện lay động lòng người.\n\nĐể người dân thẩu hiểu giá trị sinh mệnh, một đạo luật mang lên “Luật duy trì phồn thịnh quốc gia” đã được ban hành.\n\nLuật quy định, khi người dân vào tiểu học sẽ được tiêm một loại vắc xin và có tỉ lệ 1/1000 chứa viên nang nano đặc biệt. Viên nang này ở trong cơ thể người được tiêm và gây tử vong cho người ấy khi họ bước vào ngưỡng tuổi 18 – 24.\n\nĐương sự sẽ được thông báo trước về cái chết của mình vỏn vẹn 24 giờ thông qua một tờ giấy báo tử với tên gọi “IKIGAMI”. Vậy 24 giờ cuối đời, họ sẽ trải qua như thế nào?\n\nHãy tìm đọc IKIGAMI để cùng cảm nhận với các nhận vật trong truyện những cung bậc cảm xúc vui, buồn đan xen, có chút gì đó bất lực nhưng vô cùng đẹp.",
     "video": "https://www.youtube.com/embed/q6ZfdWAOV2I"
@@ -6112,7 +6112,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6154,7 +6154,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6168,7 +6168,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6210,7 +6210,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6378,7 +6378,7 @@
     "fb_price": 400000,
     "fb_quantity": 1,
     "sp_price": 580000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Khi ấy thiên hạ chia ba, Đông Huyền, Tây Sở, Thục Xuyên ở giữa.\n\nThục Xuyên như quốc gia mà chẳng phải quốc gia, chỉ có một vị vương duy nhất. Người ta bảo dưới vòm trời này không ai hơn được Thục Xuyên vương gia.\n\nTừ xưa đã có lời đồn, rằng kẻ nào giành được Thục Xuyên là có luôn thiên hạ.\n\n***\n\nTiêu Sơ Lâu, vương gia tôn quý của đất Thục Xuyên, hào hoa phong nhã, tài trí hơn người. Vì ý đồ riêng, y quyết tâm phá vỡ thế chân vạc đã tồn tại nhiều năm, thống nhất ba miền lãnh thổ. Song một Thục Xuyên đất chật người thưa, bị kẹp giữa Đông Huyền giàu mạnh và Tây Sở thiện chiến đã khiến y không thể trở thành vai chính giữa thời loạn lạc này.\n\nHuyền Lăng Diệu, Nhị hoàng tử sinh trong gia tộc đế vương, phú quý vinh hoa, nhưng tang mẹ lúc còn thơ, bị hoàng hậu đố kỵ, hoàng huynh ghen ghét. Để không bị chôn vùi trong cuộc chiến tranh giành ngôi báu, hắn đã cải trang tới Thục Xuyên tìm bậc kỳ tài vẫn được người đời tán tụng, ngợi ca.\n\nMột kẻ ôm niềm hứng thú, buông cần câu minh chủ.\n\nMột người vạn dặm đường xa, hạ mình tới cầu hiền.\n\nChuyện gì sẽ xảy đến, khi họ gặp được nhau...",
     "video": "https://www.youtube.com/embed/XwPcmluDQTk"
@@ -6392,7 +6392,7 @@
     "fb_price": 429000,
     "fb_quantity": 1,
     "sp_price": 622000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Khi ấy thiên hạ chia ba, Đông Huyền, Tây Sở, Thục Xuyên ở giữa.\n\nThục Xuyên như quốc gia mà chẳng phải quốc gia, chỉ có một vị vương duy nhất. Người ta bảo dưới vòm trời này không ai hơn được Thục Xuyên vương gia.\n\nTừ xưa đã có lời đồn, rằng kẻ nào giành được Thục Xuyên là có luôn thiên hạ.\n\n***\n\nTiêu Sơ Lâu, vương gia tôn quý của đất Thục Xuyên, hào hoa phong nhã, tài trí hơn người. Vì ý đồ riêng, y quyết tâm phá vỡ thế chân vạc đã tồn tại nhiều năm, thống nhất ba miền lãnh thổ. Song một Thục Xuyên đất chật người thưa, bị kẹp giữa Đông Huyền giàu mạnh và Tây Sở thiện chiến đã khiến y không thể trở thành vai chính giữa thời loạn lạc này.\n\nHuyền Lăng Diệu, Nhị hoàng tử sinh trong gia tộc đế vương, phú quý vinh hoa, nhưng tang mẹ lúc còn thơ, bị hoàng hậu đố kỵ, hoàng huynh ghen ghét. Để không bị chôn vùi trong cuộc chiến tranh giành ngôi báu, hắn đã cải trang tới Thục Xuyên tìm bậc kỳ tài vẫn được người đời tán tụng, ngợi ca.\n\nMột kẻ ôm niềm hứng thú, buông cần câu minh chủ.\n\nMột người vạn dặm đường xa, hạ mình tới cầu hiền.\n\nChuyện gì sẽ xảy đến, khi họ gặp được nhau...",
     "video": "https://www.youtube.com/embed/XwPcmluDQTk"
@@ -6532,7 +6532,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6546,7 +6546,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6560,7 +6560,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6658,7 +6658,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6672,7 +6672,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6686,7 +6686,7 @@
     "fb_price": 350000,
     "fb_quantity": 1,
     "sp_price": 509000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\nCâu chuyện tình thời Taisho. Cô thiếu nữ Kaibara Aria đã thi vào nhạc viện Tokyo với ước mơ trở thành nghệ sĩ dương cầm. Trong lúc đó, cô đã gặp Natsuo, thiếu gia của gia tộc Nishimikado và biết được sự thật về thân thế mình ...\n\nBộ truyện là khúc tình ca của người con gái được mệnh danh là ái nữ của thần âm nhạc.",
     "video": "https://www.youtube.com/embed/XsIixoxfXAM"
@@ -6868,7 +6868,7 @@
     "fb_price": 350000,
     "fb_quantity": 1,
     "sp_price": 509000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Lang Gia Bảng kể về Mai Trường Tô, một mưu sĩ không tên tuổi bỗng một ngày trở thành tâm điểm cho những tranh đoạt chốn cung đình nhờ lời khẳng định của Lang Gia Các thần bí, có được chàng sẽ lấy được thiên hạ.\n\nĐược mệnh danh là \"Bá tước Monte Cristo\" của Trung Quốc, bộ tiểu thuyết Lang Gia Bảng của tác giả Hải Yến liên tục lọt vào top những bảng xếp hạng văn học danh giá của xứ sở gấu trúc. Năm 2007, Lang Gia Bảng được độc giả bình chọn đứng đầu thể loại Giá Không Lịch Sử, năm 2011 Lang Gia Bảng lọt top 100 tiểu thuyết ngôn tình kinh điển, đứng trên rất nhiều tác phẩm nổi tiếng khác.\n\nDanh thế ngày càng tăng, Lang Gia Bảng được độc giả cũng như giới yêu thích phim ảnh chờ đợi chuyển thể thành phim truyền hình, nối tiếp truyền thống chuyển thể các tác phẩm văn học rất thành công tại Trung Quốc.",
     "video": "https://www.youtube.com/embed/vqmCMSjdLus"
@@ -6896,7 +6896,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -6910,7 +6910,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7232,7 +7232,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7288,7 +7288,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7386,7 +7386,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7568,7 +7568,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7624,7 +7624,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7792,7 +7792,7 @@
     "fb_price": 350000,
     "fb_quantity": 1,
     "sp_price": 509000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Những trang đầu tiên mở ra một đám cưới, nơi chú rể Futaro đứng chờ cô dâu xinh đẹp bước vào lễ đường. Hai người chuẩn bị làm lễ và nhớ về ngày đầu tiên “họ” gặp nhau…\n\nTrở lại với câu chuyện chính! Cuộc sống gia sư hài hước của cậu học sinh lớp 11 nhà nghèo vượt khó Uesugi Futarou đã bắt đầu! Thật trớ trêu khi cậu phải dạy cho 5 cô tiểu thư con nhà đại gia, đồng thời là bạn học đồng khóa!!\n\nĐã thế, HỌ CÒN LÀ CHỊ EM SINH 5!!\n\nTất cả đều rất xinh đẹp nhưng lại mắc bệnh “ghét học”, thậm chí còn “suýt soát lưu ban”! Liệu Futarou có thể dẫn dắt cho những cô gái siêu cá tính này đến được cánh cửa lễ tốt nghiệp!?",
     "video": "https://www.youtube.com/embed/vcsyWOkzxkI"
@@ -7806,7 +7806,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7834,7 +7834,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -7960,7 +7960,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -8002,7 +8002,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -8380,7 +8380,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -8408,7 +8408,7 @@
     "fb_price": 400000,
     "fb_quantity": 1,
     "sp_price": 580000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Năm 2013.\n\nTại NO.6, thành phố tương lai được mệnh danh là nơi hiện thực hóa mọi lý tưởng của loài người, Shion và Nezumi đã gặp nhau.\n\nShion là một tài năng được phát hiện từ năm hai tuổi, từ đó được nhà nước nuôi dạy như một công dân bậc cao. Thế giới cậu sống ổn định, yên bình và cũng buồn tẻ đến nỗi một cơn bão đổ bộ vào đất liền đúng ngày sinh nhật lại được cậu coi như một món quà.\n\nNhưng món quà sinh nhật thực sự, cơn bão thực sự, phải là Nezumi.\n\nCùng sự xuất hiện ly kì và tơi tả của thiếu niên có đôi mắt xám này, cuộc sống của Shion và cả NO.6 sẽ hoàn toàn thay đổi… Từ một nhân tài với tương lai được đảm bảo, Shion bị xô xuống gần đáy xã hội, từ đây cậu nhìn được phần đế thối rữa của ngọn tháp mà lẽ ra cậu đang ngồi trên.\n\nMột thế giới hiện đại, văn minh, nề nếp mà nhân loại phấn đấu xây dựng và tưởng rằng đã xây dựng thành công, lại ẩn chứa sau nó muôn vàn giả dối, bạo lực và vô nhân đạo.",
     "video": "https://www.youtube.com/embed/YG5KCREfThc"
@@ -8464,7 +8464,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -8562,7 +8562,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -8772,7 +8772,7 @@
     "fb_price": 420000,
     "fb_quantity": 1,
     "sp_price": 609000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Sau cái chết của mẹ, Shimichi chuyển lên Edo sống cùng với 6 anh chị em khác ở cư xá Karakuri, được xây bởi người cha mà họ chưa từng gặp. Họ là anh em cùng cha khác mẹ (thực tế thì có một người trong số họ không cùng huyết thống) và mẹ của họ đều đã chết. Không lâu sau khi Shimichi đến, 7 anh chị em quyết định làm một chuyến đi để thăm mộ các bà mẹ. Mọi nguy hiểm bắt đầu từ đây.",
     "video": "https://www.youtube.com/embed/VqlOvN98q-Y"
@@ -8800,7 +8800,7 @@
     "fb_price": 425000,
     "fb_quantity": 1,
     "sp_price": 616000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -8926,7 +8926,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9024,7 +9024,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9052,7 +9052,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9206,7 +9206,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9304,7 +9304,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9388,7 +9388,7 @@
     "fb_price": 350000,
     "fb_quantity": 1,
     "sp_price": 509000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\nQue Sera, Sera - Biết ra sao ngày mai là boxset bao gồm hai tập truyện sau đây của tác giả ymz: Râu, chuông, bong bóng xà phòng và Gà con, màn đêm, công viên giải trí.\n\nRâu, chuông, bong bóng xà phòng xoay quanh cặp đôi Rintaro và Santa. Rintaro quen được chiều chuộng, mù tịt việc nhà, còn Santa coi việc nhà và chăm sóc Rintaro là trên hết. Cặp đôi này đã hẹn hò được năm năm, sống chung hai năm. Bên nhau tay ấp má kề, cuộc sống tuy có vui có buồn nhưng cả hai luôn chiều chuộng lẫn nhau, đong đầy hạnh phúc. \n\nGà con, màn đêm, công viên giải trí khắc họa cuộc sống lứa đôi của Kiyoshi và Toya.\n\nKiyoshi hiện làm cho một công ty tài chính có vốn đầu tư nước ngoài, lại đa tài, đào hoa, nên là mẫu bạn trai trong mơ của bao người. Còn Toya là điều tra viên của một văn phòng thám tử, bình thường, tốt tính. Tự tin và nổi bật hơn người song Kiyoshi cũng biết rụt rè, khi và chỉ khi đối diện với tình yêu. Những lúc ấy, tình cảm và sức hấp dẫn của Toya tỏa sáng rạng ngời hơn bao giờ hết.\n\nHai tập truyện tưởng chừng kể về hai cặp đôi riêng rẽ, nhưng giữa bốn người vẫn có những kết nối: ngoài việc thật sự quen biết nhau, ở họ còn cùng thấp thoáng tinh thần yêu đời, vui sống, nhìn thế giới xung quanh bằng đôi mắt trong veo mà cũng rất đỗi nồng cháy. Để rồi Que Sera, Sera - Biết ra sao ngày mai cũng tựa như hương trà, để lại dư âm phảng phất mà vấn vương lòng người.",
     "video": "https://www.youtube.com/embed/-hPr52woXZM"
@@ -9430,7 +9430,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9934,7 +9934,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -9948,7 +9948,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -10060,7 +10060,7 @@
     "fb_price": 480000,
     "fb_quantity": 1,
     "sp_price": 695000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Thủy Thủ Mặt Trăng (Sailor Moon) là một tác phẩm truyện tranh để đời của nữ tác giả Naoko Takeuchi.\n\nBối cảnh chính của truyện là ở thành phố Tokyo, Nhật Bản thời hiện đại. Usagi Tsukino nổi tiếng là một cô bé hậu đậu, học kém, làm việc gì cũng không nên thân, hay đi học muộn đã vậy còn hay khóc nhè. Sau cuộc gặp gỡ định mệnh với mèo Luna, Usagi đã trở thành Thủy thủ Mặt Trăng, nữ chiến binh xinh đẹp bảo vệ tình yêu và công lí. Qua các cuộc chiến, cô đã có thêm những đồng đội đáng tin cậy là Thủy thủ Sao Thủy (Sailor Mercury), Thủy thủ Sao Hỏa (Sailor Mars), Thủy thủ Sao Mộc (Sailor Jupiter), Thủy thủ Sao Kim (Sailor Venus) và Tuxedo Mặt nạ. Họ cùng nhau chiến đấu bảo vệ Trái Đất khỏi sự xâm lăng của những thế lực xấu xa.",
     "video": "https://www.youtube.com/embed/x"
@@ -10284,7 +10284,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -10788,7 +10788,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -10802,7 +10802,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -10816,7 +10816,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -10830,7 +10830,7 @@
     "fb_price": 480000,
     "fb_quantity": 1,
     "sp_price": 695000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "\n\nCâu chuyện tình đầy tính nhân văn giữa anh kiến trúc sư khuyết tật và cô họa sĩ thiết kế trẻ.",
     "video": "https://www.youtube.com/embed/1kr3ZyxdKgc"
@@ -10858,7 +10858,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -10872,7 +10872,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11040,7 +11040,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "\nVốn là học sinh của một trường chuyên cấp hai tại thành phố lớn, Anri đột ngột phải chuyển về học ở một ngôi trường vùng quê vào mùa hè. Những tưởng sẽ mất nhiều thời gian để làm quen với cuộc sống nơi đây, nhưng cô bé lập tức yêu bầu không khí khoáng đạt và dễ chịu của ngôi trường mới, khác hẳn với ngôi trường trước kia, đặc biệt là những ô cửa luôn để mở...\n\nVà cũng chính nơi đây, Anri đã có được những tình bạn thật đẹp cùng những rung động trong trẻo đầu đời\n\nTỪ KHUNG CỬA SỔ LỚP 7D của nữ tác giả Atsuko Asano sẽ đánh thức những kí ức quý giá về thời thanh xuân hoa mộng trong mỗi chúng ta…",
     "video": ""
@@ -11194,7 +11194,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11208,7 +11208,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11222,7 +11222,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11236,7 +11236,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11334,7 +11334,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11348,7 +11348,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11558,7 +11558,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -11978,7 +11978,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -12006,7 +12006,7 @@
     "fb_price": 405000,
     "fb_quantity": 1,
     "sp_price": 588000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -12062,7 +12062,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -12244,7 +12244,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -12258,7 +12258,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -12272,7 +12272,7 @@
     "fb_price": 400000,
     "fb_quantity": 1,
     "sp_price": 580000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "Cậu – một “nhã tặc” chỉ có hứng thú với những món đồ cổ giá trị, một tên trộm nửa chính nửa tà.\n\nHắn – một kẻ du học trời Tây, văn võ song toàn, tinh thần chính nghĩa ít ai sánh kịp.\n\nVì một sự cố “tai nạn nghề nghiệp”, siêu trộm hào hoa Tô Duy của thế kỷ 21 bỗng trở về thời Dân quốc, đụng độ chàng thư sinh tài trí hơn người, fan Sherlock Holmes – Thẩm Ngọc Thư. Sau mấy màn đấu trí, Thẩm Ngọc Thư không những không tìm được chứng cứ để bắt Tô Duy, ngược lại còn hợp tác với cậu cứu một đứa bé mất trí nhớ.\n\n“Một rừng không thể có hai hổ”, hai đối thủ tưởng như không thể chung đường nay phải bắt tay để cùng giải quyết những vụ án hóc búa. Thượng Hải phồn hoa cất giấu quá nhiều bí mật, Thẩm Ngọc Thư quyết định mở một văn phòng thám tử để phá giải những bí mật này, còn Tô Duy cũng quyết định bám lấy Thẩm Ngọc Thư, tìm chìa khóa để có thể về nhà. Hai bánh xe số phận từ đó bắt đầu chuyển động…\n\nTập đầu tiên của series truyện là về một vụ án xoay quanh bức tượng Viên Nguyệt Quan Âm kì bí…",
     "video": "https://www.youtube.com/embed/fJmtL1P6TGc"
@@ -12328,7 +12328,7 @@
     "fb_price": "",
     "fb_quantity": 1,
     "sp_price": 9000,
-    "sp_quantity": 1,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -12678,7 +12678,7 @@
     "fb_price": 348000,
     "fb_quantity": 1,
     "sp_price": 506000,
-    "sp_quantity": 0,
+    "sp_quantity": 1,
     "sp_link": "",
     "nd": "",
     "video": ""
@@ -13140,7 +13140,7 @@
     "fb_price": "",
     "fb_quantity": "",
     "sp_price": "Không hỗ trợ",
-    "sp_quantity": 0,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "#N/A",
     "video": ""
@@ -13154,7 +13154,7 @@
     "fb_price": "",
     "fb_quantity": "",
     "sp_price": "Không hỗ trợ",
-    "sp_quantity": 0,
+    "sp_quantity": "",
     "sp_link": "",
     "nd": "#N/A",
     "video": ""
