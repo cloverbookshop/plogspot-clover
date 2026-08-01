@@ -6,7 +6,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/40169037025/",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+    "video": "https://www.youtube.com/embed/r30TmGV_3NM",
+    "type": "short-video"
   },
   "doll-len-priestess-mini-arknights": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật priestess mini arknights",
@@ -15,7 +16,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/49912392156/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-priestess-dau-arknights": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật priestess  arknights",
@@ -24,7 +26,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/49912392156/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-priestess-arknights": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật priestess arknights",
@@ -33,7 +36,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/49912392156/",
-    "video": "https://www.youtube.com/embed/jSV9QavEUug"
+    "video": "https://www.youtube.com/embed/jSV9QavEUug",
+    "type": "short-video"
   },
   "doll-len-akagi-dau-azur-lane": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật akagi  azur lane",
@@ -42,16 +46,18 @@
     "fb_price": 180000,
     "sp_price": 280000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-akagi-azur-lane": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật akagi azur lane",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật akagi game azur lane",
     "info": "Móc Khóa Len Handmade Akagi | Azur Lane",
     "size": 14,
     "fb_price": 380000,
     "sp_price": 560000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": "https://www.youtube.com/embed/uyoiZ3OuAlg"
+    "video": "https://www.youtube.com/embed/uyoiZ3OuAlg",
+    "type": "short-video"
   },
   "doll-len-emanuele-pessagno-dau-azur-lane": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật emanuele pessagno  azur lane",
@@ -60,7 +66,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-emanuele-pessagno-azur-lane": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật emanuele pessagno azur lane",
@@ -69,16 +76,18 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": "https://www.youtube.com/embed/a8HgayCtfUw"
+    "video": "https://www.youtube.com/embed/a8HgayCtfUw",
+    "type": "short-video"
   },
-  "doll-len-enterprise-dau-azur-lane": {
+  "moc-khoa-len-enterprise-azur-lane": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật enterprise  azur lane",
     "info": "Móc Khóa Len Handmade Enterprise 6cm | Azur Lane",
     "size": 6,
     "fb_price": 170000,
     "sp_price": 260000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-enterprise-azur-lane": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật enterprise azur lane",
@@ -87,7 +96,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": "https://www.youtube.com/embed/ity67ZWz1Yc"
+    "video": "https://www.youtube.com/embed/ity67ZWz1Yc",
+    "type": "short-video"
   },
   "doll-len-shinano-chan-dau-azur-lane": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật shinano-chan  azur lane",
@@ -96,16 +106,18 @@
     "fb_price": 180000,
     "sp_price": 280000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-shinano-chan-azur-lane": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật shinano azur lane",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật shinano game azur lane",
     "info": "Móc Khóa Len Handmade Shinano-Chan | Azur Lane",
     "size": 14,
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/27983394037/",
-    "video": "https://www.youtube.com/embed/ZnmPFbB3vws"
+    "video": "https://www.youtube.com/embed/ZnmPFbB3vws",
+    "type": "short-video"
   },
   "doll-len-baymax": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật baymax",
@@ -114,7 +126,8 @@
     "fb_price": 80000,
     "sp_price": 130000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Baymax-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.29460730156?sp_atk=47f783ae-1c26-4b8b-a010-8cf7b71b3ea1",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-kagarino-kirie-dau-bishoujo-mangekyou": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật kagarino kirie  bishoujo mangekyou",
@@ -123,7 +136,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/27967185044/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-kagarino-kirie-bishoujo-mangekyou": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật kagarino kirie bishoujo mangekyou",
@@ -132,7 +146,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/27967185044/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-yutori-natsu-dau-blue-archive": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật yutori natsu  blue archive",
@@ -141,7 +156,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/41452514837/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-yutori-natsu-blue-archive": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật yutori natsu blue archive",
@@ -150,7 +166,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/41452514837/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-makima-chainsaw-man": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật makima chainsaw man",
@@ -159,7 +176,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/40253300217/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-power-chainsaw-man": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật power chainsaw man",
@@ -168,7 +186,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/40253300217/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-reze-chainsaw-man": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật reze chainsaw man",
@@ -177,7 +196,8 @@
     "fb_price": 280000,
     "sp_price": 420000,
     "sp_link": "https://shopee.vn/product/577527238/40253300217/",
-    "video": "https://www.youtube.com/embed/IZEEjVrHGZ4"
+    "video": "https://www.youtube.com/embed/IZEEjVrHGZ4",
+    "type": "short-video"
   },
   "doll-len-cho-size-lon": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật chó size lớn",
@@ -186,7 +206,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/28726635663/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-cho-size-nho": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật chó size nhỏ",
@@ -195,7 +216,8 @@
     "fb_price": 40000,
     "sp_price": 80000,
     "sp_link": "https://shopee.vn/product/577527238/28726635663/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-goku-dragon-ball": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật goku dragon ball",
@@ -204,7 +226,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/29911498927/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-vegeta-dragon-ball": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật vegeta dragon ball",
@@ -213,7 +236,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/29911498927/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-nham-thi-jinshi-duoc-su-tu-su": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật nhâm thị jinshi dược sư tự sự",
@@ -222,7 +246,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/27529835399/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-mieu-mieu-maomao-duoc-su-tu-su": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật miêu miêu maomao dược sư tự sự",
@@ -231,7 +256,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/27529835399/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-frieren-dau-frieren-phap-su-tien-tang": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật frieren  frieren pháp sư tiễn táng",
@@ -240,7 +266,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/28229310513/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-frieren-frieren-phap-su-tien-tang": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật frieren frieren pháp sư tiễn táng",
@@ -249,7 +276,8 @@
     "fb_price": 330000,
     "sp_price": 490000,
     "sp_link": "https://shopee.vn/product/577527238/28229310513/",
-    "video": "https://www.youtube.com/embed/QVWP0jwNWlk"
+    "video": "https://www.youtube.com/embed/QVWP0jwNWlk",
+    "type": "short-video"
   },
   "doll-len-enjin-mini-gachiakuta": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật enjin mini gachiakuta",
@@ -258,7 +286,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/46503800039/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-zanka-mini-gachiakuta": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật zanka mini gachiakuta",
@@ -267,7 +296,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/46503800039/",
-    "video": "https://www.youtube.com/embed/demwyhEng6E"
+    "video": "https://www.youtube.com/embed/demwyhEng6E",
+    "type": "short-video"
   },
   "doll-len-jumpy-dumpty-bom-nay-cua-klee-genshin-impact": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật jumpy dumpty bom nảy của klee genshin impact",
@@ -276,16 +306,18 @@
     "fb_price": 170000,
     "sp_price": 260000,
     "sp_link": "https://shopee.vn/product/577527238/28018300632/",
-    "video": "https://www.youtube.com/embed/sQBaxUvuK0E"
+    "video": "https://www.youtube.com/embed/sQBaxUvuK0E",
+    "type": "short-video"
   },
-  "doll-len-dodoco-genshin-impact": {
+  "moc-khoa-len-dodoco-genshin-impact": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật dodoco genshin impact",
     "info": "Móc Khóa Len Handmade Dodoco | Genshin Impact",
     "size": 15,
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/28018300632/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-xiao-dau-genshin-impact": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật xiao  genshin impact",
@@ -294,16 +326,18 @@
     "fb_price": 180000,
     "sp_price": 280000,
     "sp_link": "https://shopee.vn/product/577527238/28792905632/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-xiao-genshin-impact": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật xiao genshin impact",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật xiao trong game genshin impact",
     "info": "Móc Khóa Len Handmade Xiao | Genshin Impact",
     "size": 14,
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28792905632/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-elizabeth-cos-gintoki-gintama": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật elizabeth cos gintoki gintama",
@@ -312,7 +346,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/40068971598/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-gintoki-mini-gintama": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật gintoki mini gintama",
@@ -321,7 +356,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/40068971598/",
-    "video": "https://www.youtube.com/embed/9eHBaPIl1-w"
+    "video": "https://www.youtube.com/embed/9eHBaPIl1-w",
+    "type": "short-video"
   },
   "doll-len-gintoki-dau-gintama": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật gintoki  gintama",
@@ -330,7 +366,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/40068971598/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-gintoki-gintama": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật gintoki gintama",
@@ -339,7 +376,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/40068971598/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-hijikata-mini-gintama": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hijikata mini gintama",
@@ -348,7 +386,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/40068971598/",
-    "video": "https://www.youtube.com/embed/tAUkQq6fq5o"
+    "video": "https://www.youtube.com/embed/tAUkQq6fq5o",
+    "type": "short-video"
   },
   "doll-len-girls'-last-tour:-chito": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật girls' last tour: chito",
@@ -357,7 +396,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/Girls'-Last-Tour-Chito-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-i.577527238.29018288277",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-girls'-last-tour:-yuuri": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật girls' last tour: yuuri",
@@ -366,7 +406,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/Girls'-Last-Tour-Chito-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-i.577527238.29018288278",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-suna-rintarou-mini-haikyuu": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật suna rintarou mini haikyuu",
@@ -375,7 +416,8 @@
     "fb_price": 50000,
     "sp_price": 90000,
     "sp_link": "https://shopee.vn/product/577527238/43552222207/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-draco-malfoy-mini-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật draco malfoy mini harry potter",
@@ -384,7 +426,8 @@
     "fb_price": 55000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-draco-malfoy-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật draco malfoy harry potter",
@@ -393,7 +436,8 @@
     "fb_price": 280000,
     "sp_price": 420000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-harry-mini-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật harry mini harry potter",
@@ -402,7 +446,8 @@
     "fb_price": 60000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-harry-potter-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật harry potter harry potter",
@@ -411,7 +456,8 @@
     "fb_price": 280000,
     "sp_price": 420000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-hermione-mini-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hermione mini harry potter",
@@ -420,7 +466,8 @@
     "fb_price": 55000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-hermione-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hermione harry potter",
@@ -429,7 +476,8 @@
     "fb_price": 280000,
     "sp_price": 420000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-ron-mini-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật ron mini harry potter",
@@ -438,7 +486,8 @@
     "fb_price": 55000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-ron-harry-potter": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật ron harry potter",
@@ -447,34 +496,38 @@
     "fb_price": 280000,
     "sp_price": 420000,
     "sp_link": "https://shopee.vn/product/577527238/29862096060/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-honkai-impact:-aponia-10cm": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật honkai impact: aponia 10cm",
-    "info": "Móc Khóa Len Handmade Honkai Impact: Aponia 10Cm",
-    "size": 10,
+  "doll-len-honkai-impact-3rd-aponia": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật aponia honkai impact 3rd",
+    "info": "Móc Khóa Len Handmade Aponia | Honkai Impact 3rd",
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/Honkai-Impact-Lantern-Aponia-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-i.577527238.29688183698",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-kafka-honkai:-star-rail": {
+  "doll-len-kafka-honkai-star-rail": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật kafka honkai: star rail",
     "info": "Móc Khóa Len Handmade Kafka | Honkai: Star Rail",
     "size": 14,
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/26717828360/",
-    "video": "https://www.youtube.com/embed/P35mIKTwdlA"
+    "video": "https://www.youtube.com/embed/P35mIKTwdlA",
+    "type": "short-video"
   },
-  "doll-len-honkai-impact:-lantern-10cm": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật honkai impact: lantern 10cm",
-    "info": "Móc Khóa Len Handmade Honkai Impact: Lantern 10Cm",
-    "size": 10,
+  "doll-len-honkai-impact-3rd-lantern": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật lantern honkai impact 3rd",
+    "info": "Móc Khóa Len Handmade Lantern | Honkai Impact 3rd",
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/Honkai-Impact-Lantern-Aponia-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-i.577527238.29688183698",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-akaza-thanh-guom-diet-quy": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật akaza thanh gươm diệt quỷ",
@@ -483,34 +536,38 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/29835163076/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-hakuji-thanh-guom-diet-quy": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hakuji thanh gươm diệt quỷ",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hakuji trong manga thanh gươm diệt quỷ",
     "info": "Móc Khóa Len Handmade Hakuji | Thanh Gươm DiệT Quỷ",
     "size": 14,
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/29835163076/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-kokushibo-thanh-guom-diet-quy": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật kokushibo thanh gươm diệt quỷ",
     "info": "Móc Khóa Len Handmade Kokushibo | Thanh Gươm DiệT Quỷ",
-    "size": 10,
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/product/577527238/29835163076/",
-    "video": "https://www.youtube.com/embed/r1Z422rO6xA"
+    "video": "https://www.youtube.com/embed/r1Z422rO6xA",
+    "type": "short-video"
   },
   "doll-len-koyuki-thanh-guom-diet-quy": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật koyuki thanh gươm diệt quỷ",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật koyuki trong anime thanh gươm diệt quỷ",
     "info": "Móc Khóa Len Handmade Koyuki | Thanh Gươm DiệT Quỷ",
     "size": 14,
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/29835163076/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-nezuko-mini-thanh-guom-diet-quy": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật nezuko mini thanh gươm diệt quỷ",
@@ -519,7 +576,8 @@
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/product/577527238/46954906098/",
-    "video": "https://www.youtube.com/embed/XlrzgwswFIM"
+    "video": "https://www.youtube.com/embed/XlrzgwswFIM",
+    "type": "short-video"
   },
   "doll-len-tanjiro-mini-thanh-guom-diet-quy": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật tanjiro mini thanh gươm diệt quỷ",
@@ -528,7 +586,8 @@
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/product/577527238/46954906098/",
-    "video": "https://www.youtube.com/embed/LgeVD-v6j0g"
+    "video": "https://www.youtube.com/embed/LgeVD-v6j0g",
+    "type": "short-video"
   },
   "doll-len-tokito-muichiro-mini-thanh-guom-diet-quy": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật tokito muichiro mini thanh gươm diệt quỷ",
@@ -537,25 +596,28 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/46954906098/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-hau-gai-rong-nha-kobayashi:-tohru": {
+  "doll-len-hau-gai-rong-nha-kobayashi-tohru": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hầu gái rồng nhà kobayashi: tohru",
     "info": "Móc Khóa Len Handmade HầU Gái RồNg Nhà Kobayashi: Tohru",
     "size": 14,
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/41012206344/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-malice-mizer:-kozi": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật malice mizer: közi",
-    "info": "Móc Khóa Len Handmade Malice Mizer: Közi",
-    "size": 10,
+  "doll-len-kozi-malice-mizer": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade ca sĩ kozi nhóm nhạc malice mizer",
+    "info": "Móc Khóa Len Handmade Kozi | Malice Mizer",
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/Malice-Mizer-Kozi-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-handmade-theo-y%C3%AAu-c%E1%BA%A7u-i.577527238.44108574653",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-lain-iwakura:-bear-suit-serial-experiments-lain": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật lain iwakura: bear suit serial experiments lain",
@@ -564,7 +626,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/26429830683/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-lot-ly-hoa-hong-gio": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật lót ly hoa hồng giỏ",
@@ -573,7 +636,8 @@
     "fb_price": 90000,
     "sp_price": 150000,
     "sp_link": "https://shopee.vn/product/577527238/28031560394/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-billow-thien-tuong-do-ach-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật billow thiên tướng độ ách liên quân",
@@ -582,7 +646,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/26211243545/",
-    "video": "https://www.youtube.com/embed/c9k-KQwh-Lk"
+    "video": "https://www.youtube.com/embed/c9k-KQwh-Lk",
+    "type": "short-video"
   },
   "doll-len-bright-vua-ve-nhi-dau-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật bright vua về nhì  liên quân",
@@ -591,7 +656,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/26211243545/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-hayate-tu-di-thanh-de-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hayate tu di thánh đế liên quân",
@@ -600,7 +666,8 @@
     "fb_price": 380000,
     "sp_price": 560000,
     "sp_link": "https://shopee.vn/product/577527238/26211243545/",
-    "video": "https://www.youtube.com/embed/zJoNMwv-Mcw"
+    "video": "https://www.youtube.com/embed/zJoNMwv-Mcw",
+    "type": "short-video"
   },
   "doll-len-laville-chien-than-moba-dau-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật laville chiến thần moba  liên quân",
@@ -609,7 +676,8 @@
     "fb_price": 180000,
     "sp_price": 280000,
     "sp_link": "https://shopee.vn/product/577527238/28676021832/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-laville-chien-than-moba-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật laville chiến thần moba liên quân",
@@ -618,7 +686,8 @@
     "fb_price": 380000,
     "sp_price": 560000,
     "sp_link": "https://shopee.vn/product/577527238/28676021832/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-nakroth-thu-nguyen-ve-than-dau-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật nakroth thứ nguyên vệ thần  liên quân",
@@ -627,16 +696,18 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/26211243545/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-zata-chi-ton-ta-phuong-lien-quan": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật zata chí tôn tà phượng liên quân",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật zata chí tôn tà phượng trong game liên quân",
     "info": "Móc Khóa Len Handmade Zata Chí Tôn Tà PhượNg | Liên Quân",
     "size": 14,
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/26211243545/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-zata-tac-gia-duong-dai-dau-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật zata tác gia đương đại  liên quân",
@@ -645,7 +716,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/26211243545/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-zata-tac-gia-duong-dai-lien-quan": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật zata tác gia đương đại liên quân",
@@ -654,7 +726,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28676021832/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-meo-7cm": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật mèo 7cm",
@@ -663,7 +736,8 @@
     "fb_price": 50000,
     "sp_price": 90000,
     "sp_link": "https://shopee.vn/product/577527238/28726635663/",
-    "video": "https://www.youtube.com/embed/AfrXpcjzPFA"
+    "video": "https://www.youtube.com/embed/AfrXpcjzPFA",
+    "type": "short-video"
   },
   "doll-len-meo-size-6cmx6cmx6cm": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật mèo size 6cmx6cmx6cm",
@@ -672,7 +746,8 @@
     "fb_price": 65000,
     "sp_price": 110000,
     "sp_link": "https://shopee.vn/product/577527238/28726635663/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-meo-size-4cmx4cmx4cm": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật mèo size 4cmx4cmx4cm",
@@ -681,16 +756,18 @@
     "fb_price": 40000,
     "sp_price": 80000,
     "sp_link": "https://shopee.vn/product/577527238/28726635663/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-natsume's-book-of-friends:-natsume": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật natsume's book of friends: natsume",
     "info": "Móc Khóa Len Handmade Natsume'S Book Of Friends: Natsume",
-    "size": 10,
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Nyanko-sensei-Natsume's-Book-of-Friends-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-Trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.23790732291",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-natsume's-book-of-friends:-nyanko-sensei": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật natsume's book of friends: nyanko-sensei",
@@ -699,7 +776,8 @@
     "fb_price": 80000,
     "sp_price": 130000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Nyanko-sensei-Natsume's-Book-of-Friends-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-Trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.23790732291",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-one-piece:-luffy": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật one piece: luffy",
@@ -708,7 +786,8 @@
     "fb_price": 280000,
     "sp_price": 420000,
     "sp_link": "https://shopee.vn/product/577527238/26212091367/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-charmander-/-hitokage": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon charmander / hitokage",
@@ -717,7 +796,8 @@
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/product/577527238/29311243657/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-chinchou-/-chonchie": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon chinchou / chonchie",
@@ -726,7 +806,8 @@
     "fb_price": 80000,
     "sp_price": 130000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Chinchou-Chonchie-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28710640569?sp_atk=010b4009-e9f7-4d4d-91d2-74e8f3a69427",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-diglett": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon diglett",
@@ -735,7 +816,8 @@
     "fb_price": 50000,
     "sp_price": 90000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Chinchou-Chonchie-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28710640569?sp_atk=010b4009-e9f7-4d4d-91d2-74e8f3a69427",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-drifloon": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon drifloon",
@@ -744,7 +826,8 @@
     "fb_price": 40000,
     "sp_price": 80000,
     "sp_link": "https://shopee.vn/product/577527238/56908722031/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-gloom": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon gloom",
@@ -753,34 +836,38 @@
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Chinchou-Chonchie-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28710640569?sp_atk=010b4009-e9f7-4d4d-91d2-74e8f3a69427",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-koffing-/-dogasu": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon koffing / dogasu",
     "info": "Móc Khóa Len Handmade Pokemon Koffing / Dogasu",
-    "size": 10,
+    "size": 9,
     "fb_price": 100000,
     "sp_price": 160000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Koffing-Dogasu-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28010635763?sp_atk=67c5fff0-2e4a-49b4-94e5-00d802c1e476",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-magnemite": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon magnemite",
     "info": "Móc Khóa Len Handmade Pokemon Magnemite",
-    "size": 10,
+    "size": 9,
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/product/577527238/26661516749/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-marill": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon marill",
     "info": "Móc Khóa Len Handmade Pokemon Marill",
-    "size": 10,
+    "size": 9,
     "fb_price": 90000,
     "sp_price": 150000,
     "sp_link": "https://shopee.vn/product/577527238/27817332695/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-mimikyu": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon mimikyu",
@@ -789,7 +876,8 @@
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Mimikyu-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.26461239116?sp_atk=218764d7-2bb2-47b8-8eb0-1f7a827115c5",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-oddish": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon oddish",
@@ -798,7 +886,8 @@
     "fb_price": 50000,
     "sp_price": 90000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Chinchou-Chonchie-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28710640569?sp_atk=010b4009-e9f7-4d4d-91d2-74e8f3a69427",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-pikachu-mini": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon pikachu mini",
@@ -807,7 +896,8 @@
     "fb_price": 40000,
     "sp_price": 80000,
     "sp_link": "https://shopee.vn/product/577527238/29761499957/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-pikachu": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon pikachu",
@@ -816,7 +906,8 @@
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/product/577527238/29761499957/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-piplup": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon piplup",
@@ -825,7 +916,8 @@
     "fb_price": 250000,
     "sp_price": 380000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Snorlax-Kabigon-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.29510634888?sp_atk=e5e2f334-0c38-49ea-9f06-47fd0b4802e5",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-psyduck-/-koduck-mini": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon psyduck / koduck mini",
@@ -834,7 +926,8 @@
     "fb_price": 50000,
     "sp_price": 90000,
     "sp_link": "https://shopee.vn/product/577527238/27911243648/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-psyduck-/-koduck": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon psyduck / koduck",
@@ -843,7 +936,8 @@
     "fb_price": 80000,
     "sp_price": 130000,
     "sp_link": "https://shopee.vn/product/577527238/27911243648/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-snorlax-/-kabigon": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon snorlax / kabigon",
@@ -852,7 +946,8 @@
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Snorlax-Kabigon-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.29510634888?sp_atk=e5e2f334-0c38-49ea-9f06-47fd0b4802e5",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-snorlax-/-kabigon-size-lon": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon snorlax / kabigon size lớn",
@@ -861,7 +956,8 @@
     "fb_price": 250000,
     "sp_price": 380000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Snorlax-Kabigon-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.29510634888?sp_atk=e5e2f334-0c38-49ea-9f06-47fd0b4802e5",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-squirtle-/-zenigame": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon squirtle / zenigame",
@@ -870,7 +966,8 @@
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/product/577527238/29411238952/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-pokemon-togepi": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật pokemon togepi",
@@ -879,7 +976,8 @@
     "fb_price": 90000,
     "sp_price": 150000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Pokemon-Togepi-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28962091300?sp_atk=109e3eac-86b8-498f-8ef5-1740ce2a2c9d",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-ran-than-tai": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật rắn thần tài",
@@ -888,7 +986,8 @@
     "fb_price": 70000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/product/577527238/25890895507/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-p-chan-ranma-1/2": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật p-chan ranma 1/2",
@@ -897,7 +996,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/26624674888/",
-    "video": "https://www.youtube.com/embed/-y3Lo14_TTw"
+    "video": "https://www.youtube.com/embed/-y3Lo14_TTw",
+    "type": "short-video"
   },
   "doll-len-sieu-anh-hung:-batman": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật siêu anh hùng: batman",
@@ -906,7 +1006,8 @@
     "fb_price": 100000,
     "sp_price": 160000,
     "sp_link": "https://shopee.vn/product/577527238/29561243616/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sieu-anh-hung:-deadpool-size-nho": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật siêu anh hùng: deadpool size nhỏ",
@@ -915,7 +1016,8 @@
     "fb_price": 100000,
     "sp_price": 160000,
     "sp_link": "https://shopee.vn/product/577527238/29561243616/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sieu-anh-hung:-groot": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật siêu anh hùng: groot",
@@ -924,7 +1026,8 @@
     "fb_price": 80000,
     "sp_price": 130000,
     "sp_link": "https://shopee.vn/product/577527238/29561243616/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sieu-anh-hung:-iron-man": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật siêu anh hùng: iron man",
@@ -933,16 +1036,18 @@
     "fb_price": 100000,
     "sp_price": 160000,
     "sp_link": "https://shopee.vn/product/577527238/29561243616/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sieu-anh-hung:-spider-man": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật siêu anh hùng: spider-man",
     "info": "Móc Khóa Len Handmade Siêu Anh Hùng: Spider-Man",
-    "size": 10,
+    "size": 9,
     "fb_price": 60000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/29561243616/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sakura-14cm-cardcaptor-sakura-thu-linh-the-bai": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật sakura 14cm cardcaptor sakura thủ lĩnh thẻ bài",
@@ -951,7 +1056,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28830008157/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sakura-17cm-cardcaptor-sakura-thu-linh-the-bai": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật sakura 17cm cardcaptor sakura thủ lĩnh thẻ bài",
@@ -960,7 +1066,8 @@
     "fb_price": 400000,
     "sp_price": 590000,
     "sp_link": "https://shopee.vn/product/577527238/28830008157/",
-    "video": "https://www.youtube.com/embed/XYR-RtsI1sc"
+    "video": "https://www.youtube.com/embed/XYR-RtsI1sc",
+    "type": "short-video"
   },
   "doll-len-tomoyo-14cm-cardcaptor-sakura-thu-linh-the-bai": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật tomoyo 14cm cardcaptor sakura thủ lĩnh thẻ bài",
@@ -969,7 +1076,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28830008157/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-tomoyo-17cm-cardcaptor-sakura-thu-linh-the-bai": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật tomoyo 17cm cardcaptor sakura thủ lĩnh thẻ bài",
@@ -978,7 +1086,8 @@
     "fb_price": 400000,
     "sp_price": 590000,
     "sp_link": "https://shopee.vn/product/577527238/28830008157/",
-    "video": "https://www.youtube.com/embed/z0NZBJ6VL5E"
+    "video": "https://www.youtube.com/embed/z0NZBJ6VL5E",
+    "type": "short-video"
   },
   "doll-len-sanrio-size-lon:-cinnamoroll": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật sanrio size lớn: cinnamoroll",
@@ -987,7 +1096,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28224679829/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sanrio-size-lon:-keroppi": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật sanrio size lớn: keroppi",
@@ -996,7 +1106,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28224679829/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sanrio-size-lon:-pochacco": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật sanrio size lớn: pochacco",
@@ -1005,7 +1116,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28224679829/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-sanrio-size-lon:-pompompurin": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật sanrio size lớn: pompompurin",
@@ -1014,7 +1126,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/28224679829/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-kaori-mini-loi-noi-doi-thang-tu": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật kaori mini lời nói dối tháng tư",
@@ -1023,7 +1136,8 @@
     "fb_price": 55000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/28676021832/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-arima-kousei-mini-loi-noi-doi-thang-tu": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật arima kousei mini lời nói dối tháng tư",
@@ -1032,7 +1146,8 @@
     "fb_price": 60000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/product/577527238/28676021832/",
-    "video": "https://www.youtube.com/embed/ZqD2j-VPRaQ"
+    "video": "https://www.youtube.com/embed/ZqD2j-VPRaQ",
+    "type": "short-video"
   },
   "doll-len-skip-and-loafer:-nhip-buoc-tuoi-xanh:-iwakura-mitsumi-9cm": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật skip and loafer: nhịp bước tuổi xanh: iwakura mitsumi 9cm",
@@ -1041,7 +1156,8 @@
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/Skip-and-Loafer-Nh%E1%BB%8Bp-b%C6%B0%E1%BB%9Bc-tu%E1%BB%95i-xanh-Shima-Sousuke-Iwakura-Mitsumi-M%C3%B3c-kh%C3%B3a-len-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-nh%C3%A2n-v%E1%BA%ADt-manga-handmade-i.577527238.29782043362?sp_atk=6da70b41-0f7e-4fe6-a898-f2377ac5ed79&xptdk=6da70b41-0f7e-4fe6-a898-f2377ac5ed81",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-skip-and-loafer:-nhip-buoc-tuoi-xanh:-shima-sousuke-9cm": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật skip and loafer: nhịp bước tuổi xanh: shima sousuke 9cm",
@@ -1050,25 +1166,28 @@
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/Skip-and-Loafer-Nh%E1%BB%8Bp-b%C6%B0%E1%BB%9Bc-tu%E1%BB%95i-xanh-Shima-Sousuke-Iwakura-Mitsumi-M%C3%B3c-kh%C3%B3a-len-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-nh%C3%A2n-v%E1%BA%ADt-manga-handmade-i.577527238.29782043362?sp_atk=6da70b41-0f7e-4fe6-a898-f2377ac5ed79&xptdk=6da70b41-0f7e-4fe6-a898-f2377ac5ed84",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-rimuru-tempest-maid-outfit-mau-2-luc-do-toi-da-chuyen-sinh-thanh-slime:": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật rimuru tempest maid outfit mẫu 2 lúc đó tôi đã chuyển sinh thành slime:",
-    "info": "Móc Khóa Len Handmade Rimuru Tempest (Maid Outfit - MẫU 2) | Lúc Đó Tôi Đã ChuyểN Sinh Thành Slime:",
-    "size": 10,
+  "doll-len-rimuru-tempest-chuyen-sinh-thanh-slime-m2": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật rimuru tempest maid outfit anime chuyển sinh thành slime",
+    "info": "Móc Khóa Len Handmade Rimuru Tempest (Maid Outfit - MẫU 2) | Lúc Đó Tôi Đã ChuyểN Sinh Thành Slime",
+    "size": 9,
     "fb_price": 135000,
     "sp_price": 210000,
     "sp_link": "https://shopee.vn/L%C3%BAc-%C4%90%C3%B3-T%C3%B4i-%C4%90%C3%A3-Chuy%E1%BB%83n-Sinh-Th%C3%A0nh-Slime-Rimuru-Tempest-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-anime-handmade-i.577527238.24193550649",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-rimuru-tempest-maid-outfit-luc-do-toi-da-chuyen-sinh-thanh-slime:": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật rimuru tempest maid outfit lúc đó tôi đã chuyển sinh thành slime:",
-    "info": "Móc Khóa Len Handmade Rimuru Tempest (Maid Outfit) | Lúc Đó Tôi Đã ChuyểN Sinh Thành Slime:",
-    "size": 10,
+  "doll-len-rimuru-tempest-maid-outfit-chuyen-sinh-thanh-slime": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật rimuru tempest maid outfit anime chuyển sinh thành slime",
+    "info": "Móc Khóa Len Handmade Rimuru Tempest (Maid Outfit) | Lúc Đó Tôi Đã ChuyểN Sinh Thành Slime",
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/L%C3%BAc-%C4%90%C3%B3-T%C3%B4i-%C4%90%C3%A3-Chuy%E1%BB%83n-Sinh-Th%C3%A0nh-Slime-Rimuru-Tempest-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-anime-handmade-i.577527238.24193550649",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-rimuru-tempest-14cm-luc-do-toi-da-chuyen-sinh-thanh-slime": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật rimuru tempest 14cm lúc đó tôi đã chuyển sinh thành slime",
@@ -1077,7 +1196,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/L%C3%BAc-%C4%90%C3%B3-T%C3%B4i-%C4%90%C3%A3-Chuy%E1%BB%83n-Sinh-Th%C3%A0nh-Slime-Rimuru-Tempest-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-anime-handmade-i.577527238.24193550649",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-shuna-mini-luc-do-toi-da-chuyen-sinh-thanh-slime:": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật shuna mini lúc đó tôi đã chuyển sinh thành slime:",
@@ -1086,16 +1206,18 @@
     "fb_price": 60000,
     "sp_price": 100000,
     "sp_link": "https://shopee.vn/L%C3%BAc-%C4%90%C3%B3-T%C3%B4i-%C4%90%C3%A3-Chuy%E1%BB%83n-Sinh-Th%C3%A0nh-Slime-Rimuru-Tempest-M%C3%B3c-kh%C3%B3a-len-g%E1%BA%AFn-t%C3%BAi-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-Nh%C3%A2n-v%E1%BA%ADt-anime-handmade-i.577527238.24193550650",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-anya-forger-10cm-spy-x-family": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật anya forger 10cm spy x family",
     "info": "Móc Khóa Len Handmade Anya Forger (10Cm) | Spy X Family",
-    "size": 10,
+    "size": 9,
     "fb_price": 125000,
     "sp_price": 200000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Spy-x-Family-Anya-Yor-Damian-M%C3%B3c-kh%C3%B3a-nh%C3%A2n-v%E1%BA%ADt-manga-anime-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28617332137",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-anya-forger-14cm-spy-x-family": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật anya forger 14cm spy x family",
@@ -1104,7 +1226,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Crayon-Shin-chan-(Shin-c%E1%BA%ADu-b%C3%A9-b%C3%BAt-ch%C3%AC)-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28476603816?sp_atk=d8dd6836-fdbb-4f98-95c2-b613e84b1459",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-damian-desmond-14cm-spy-x-family": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật damian desmond 14cm spy x family",
@@ -1113,7 +1236,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Spy-x-Family-Anya-Yor-Damian-M%C3%B3c-kh%C3%B3a-nh%C3%A2n-v%E1%BA%ADt-manga-anime-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28617332138",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-yor-forger-spy-x-family": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật yor forger spy x family",
@@ -1122,7 +1246,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-Spy-x-Family-Anya-Yor-Damian-M%C3%B3c-kh%C3%B3a-nh%C3%A2n-v%E1%BA%ADt-manga-anime-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.28617332139",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-makise-kurisu-steins;gate": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật makise kurisu steins;gate",
@@ -1131,7 +1256,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/41456550401/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-durandal-uma-musume-pretty-derby": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật durandal uma musume pretty derby",
@@ -1140,7 +1266,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/43565036948/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-tony-bianca-dau-uma-musume-pretty-derby": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật tony bianca  uma musume pretty derby",
@@ -1149,7 +1276,8 @@
     "fb_price": 200000,
     "sp_price": 300000,
     "sp_link": "https://shopee.vn/product/577527238/43565036948/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-tony-bianca-uma-musume-pretty-derby": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật tony bianca uma musume pretty derby",
@@ -1158,16 +1286,18 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/43565036948/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
-  "doll-len-chloe-d'apchier-mini-hoi-ki-vanitas": {
+  "doll-len-chloe-dapchier-mini-hoi-ki-vanitas": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật chloé d'apchier mini hồi kí vanitas",
     "info": "Móc Khóa Len Handmade Chloé D'Apchier Mini | HồI Kí Vanitas",
     "size": 5,
     "fb_price": 68000,
     "sp_price": 120000,
     "sp_link": "https://shopee.vn/product/577527238/26217329036/",
-    "video": "https://www.youtube.com/embed/0KDY4e3iujg"
+    "video": "https://www.youtube.com/embed/0KDY4e3iujg",
+    "type": "short-video"
   },
   "doll-len-dazai-osamu-van-hao-luu-lac": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật dazai osamu văn hào lưu lạc",
@@ -1176,7 +1306,8 @@
     "fb_price": 300000,
     "sp_price": 450000,
     "sp_link": "https://shopee.vn/product/577527238/27034478760/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-nakahara-chuya-van-hao-luu-lac": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật nakahara chuya văn hào lưu lạc",
@@ -1185,7 +1316,8 @@
     "fb_price": 330000,
     "sp_price": 490000,
     "sp_link": "https://shopee.vn/product/577527238/27034478760/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-vocaloid:-hatsune-miku-dau": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật vocaloid: hatsune miku ",
@@ -1194,7 +1326,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/27535163308/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-hatsune-miku-vocaloid": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật hatsune miku vocaloid",
@@ -1203,7 +1336,8 @@
     "fb_price": 400000,
     "sp_price": 590000,
     "sp_link": "https://shopee.vn/product/577527238/27535163308/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-avidius-wuthering-waves-dau": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật avidius wuthering waves ",
@@ -1212,7 +1346,8 @@
     "fb_price": 150000,
     "sp_price": 230000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/-WT8jP2VWM8"
+    "video": "https://www.youtube.com/embed/-WT8jP2VWM8",
+    "type": "short-video"
   },
   "doll-len-avidius-wuthering-waves": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật avidius wuthering waves",
@@ -1221,7 +1356,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/-WT8jP2VWM8"
+    "video": "https://www.youtube.com/embed/-WT8jP2VWM8",
+    "type": "short-video"
   },
   "doll-len-avidius-mau-2-wuthering-waves": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật avidius mẫu 2 wuthering waves",
@@ -1230,7 +1366,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/g_HcclCYTxY"
+    "video": "https://www.youtube.com/embed/g_HcclCYTxY",
+    "type": "short-video"
   },
   "doll-len-cartethyia-wuthering-waves-dau": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật cartethyia wuthering waves ",
@@ -1239,7 +1376,8 @@
     "fb_price": 180000,
     "sp_price": 280000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/o2AQefsXms9"
+    "video": "https://www.youtube.com/embed/o2AQefsXms9",
+    "type": "short-video"
   },
   "doll-len-cartethyia-wuthering-waves": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật cartethyia wuthering waves",
@@ -1248,7 +1386,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/o2AQefsXms8"
+    "video": "https://www.youtube.com/embed/o2AQefsXms8",
+    "type": "short-video"
   },
   "doll-len-cristoforo-dau-wuthering-waves": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật cristoforo  wuthering waves",
@@ -1257,7 +1396,8 @@
     "fb_price": 200000,
     "sp_price": 300000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-cristoforo-wuthering-waves": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật cristoforo wuthering waves",
@@ -1266,7 +1406,8 @@
     "fb_price": 400000,
     "sp_price": 590000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-phrolova-wuthering-waves-dau": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật phrolova wuthering waves ",
@@ -1275,7 +1416,8 @@
     "fb_price": 170000,
     "sp_price": 260000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-phrolova-wuthering-waves": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật phrolova wuthering waves",
@@ -1284,7 +1426,8 @@
     "fb_price": 350000,
     "sp_price": 520000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-the-shorekeeper-wuthering-waves-dau": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật the shorekeeper wuthering waves ",
@@ -1293,16 +1436,18 @@
     "fb_price": 180000,
     "sp_price": 280000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/NW4OmP5mTYg"
+    "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
+    "type": "short-video"
   },
   "doll-len-the-shorekeeper-wuthering-waves": {
-    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật the shorekeeper wuthering waves",
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật the shorekeeper trong game wuthering waves",
     "info": "Móc Khóa Len Handmade The Shorekeeper | Wuthering Waves",
     "size": 14,
     "fb_price": 370000,
     "sp_price": 550000,
     "sp_link": "https://shopee.vn/product/577527238/42152806433/",
-    "video": "https://www.youtube.com/embed/NW4OmP5mTYg"
+    "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
+    "type": "short-video"
   },
   "doll-len-xuong-rong": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật xương rồng",
@@ -1311,7 +1456,8 @@
     "fb_price": 25000,
     "sp_price": 50000,
     "sp_link": "https://shopee.vn/M%C3%B3c-kh%C3%B3a-len-ch%E1%BA%ADu-x%C6%B0%C6%A1ng-r%E1%BB%93ng-handmade-D%C3%B9ng-%C4%91%E1%BB%83-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.29310726686?sp_atk=d157a17c-f02e-42ea-8ee8-d0e15e37dea4",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "moc-khoa-len-nhan-vat-inside-out": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật móc khóa len nhân vật inside out",
@@ -1320,15 +1466,47 @@
     "fb_price": "",
     "sp_price": "",
     "sp_link": "",
-    "video": ""
+    "video": "",
+    "type": "none-video"
   },
   "moc-khoa-len-meo-den": {
     "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật móc khóa len mèo đen",
-    "info": "Móc Khóa Len Mèo Đen handmade",
+    "info": "Móc Khóa Len Handmade Mèo Đen",
     "size": "",
     "fb_price": "",
     "sp_price": "",
     "sp_link": "",
-    "video": ""
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len-kaedehara-kazuha-genshin-impact": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật doll len kaedehara kazuha genshin impact",
+    "info": "Doll Len Kaedehara Kazuha | Genshin Impact handmade",
+    "size": 14,
+    "fb_price": "",
+    "sp_price": "",
+    "sp_link": "",
+    "video": "",
+    "type": "none-video"
+  },
+  "moc-khoa-len-kaedehara-kazuha-genshin-impact": {
+    "alt": "quà tặng trang trí mô hình búp bê len handmade nhân vật móc khóa len kaedehara kazuha genshin impact",
+    "info": "Móc Khóa Len Kaedehara Kazuha | Genshin Impact handmade",
+    "size": 6,
+    "fb_price": "",
+    "sp_price": "",
+    "sp_link": "",
+    "video": "",
+    "type": "none-video"
+  },
+  "#N/A": {
+    "alt": "#N/A",
+    "info": "Doll Len Aemeath | Wuthering Waves handmade",
+    "size": 6,
+    "fb_price": "",
+    "sp_price": "",
+    "sp_link": "",
+    "video": "",
+    "type": "none-video"
   }
 }
