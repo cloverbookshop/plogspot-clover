@@ -4798,17 +4798,10 @@
         "quantity": 1,
         "sp_price": "Không hỗ trợ",
         "sp_link": ""
-      },
-      {
-        "name": "default",
-        "fb_price": 680000,
-        "quantity": 1,
-        "sp_price": "Không hỗ trợ",
-        "sp_link": ""
       }
     ],
     "video": "https://www.youtube.com/embed/o6Zbl_0nD88",
-    "type": ""
+    "type": "short-video"
   },
   "combo-hon-dao-giong-to-zetsuen-no-tempest-manga-full-bo": {
     "options": [
