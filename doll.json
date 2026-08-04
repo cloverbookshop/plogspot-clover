@@ -2,13 +2,13 @@
   "doll-len-akagi-azur-lane": {
     "options": [
       {
-        "name": "Azur Lane",
+        "name": "Full body 14cm",
         "fb_price": 380000,
         "sp_price": 560000,
         "sp_link": "https://shopee.vn/product/577527238/27983394037/"
       },
       {
-        "name": "Azur Lane",
+        "name": "Phần đầu 6cm",
         "fb_price": 180000,
         "sp_price": 280000,
         "sp_link": "https://shopee.vn/product/577527238/27983394037/"
@@ -260,7 +260,7 @@
   "doll-len-draco-malfoy-mini-harry-potter": {
     "options": [
       {
-        "name": "Harry Potter",
+        "name": "default",
         "fb_price": 55000,
         "sp_price": 100000,
         "sp_link": "https://shopee.vn/product/577527238/29862096060/"
@@ -416,13 +416,13 @@
   "doll-len-girls-last-tour-chito": {
     "options": [
       {
-        "name": "Girls' Last Tour",
+        "name": "Full body (14cm)",
         "fb_price": 300000,
         "sp_price": 450000,
         "sp_link": "https://shopee.vn/product/577527238/29018288277/"
       },
       {
-        "name": "Girls' Last Tour",
+        "name": "Phần đầu (6cm)",
         "fb_price": 300000,
         "sp_price": 450000,
         "sp_link": "https://shopee.vn/product/577527238/29018288277/"
@@ -434,13 +434,13 @@
   "doll-len-girls-last-tour-yuuri": {
     "options": [
       {
-        "name": "Girls' Last Tour",
+        "name": "Full body (14cm)",
         "fb_price": 300000,
         "sp_price": 450000,
         "sp_link": "https://shopee.vn/product/577527238/29018288277/"
       },
       {
-        "name": "Girls' Last Tour",
+        "name": "Phần đầu (6cm)",
         "fb_price": 300000,
         "sp_price": 450000,
         "sp_link": "https://shopee.vn/product/577527238/29018288277/"
@@ -1172,7 +1172,7 @@
   "doll-len-priestess-arknights": {
     "options": [
       {
-        "name": "Arknights",
+        "name": "default",
         "fb_price": 350000,
         "sp_price": 520000,
         "sp_link": "https://shopee.vn/product/577527238/49912392156/"
@@ -1220,7 +1220,7 @@
   "doll-len-reze-chainsaw-man": {
     "options": [
       {
-        "name": "Chainsaw Man",
+        "name": "default",
         "fb_price": 280000,
         "sp_price": 420000,
         "sp_link": "https://shopee.vn/product/577527238/40253300217/"
@@ -1364,7 +1364,7 @@
   "doll-len-shinano-chan-azur-lane": {
     "options": [
       {
-        "name": "Azur Lane",
+        "name": "default",
         "fb_price": 350000,
         "sp_price": 520000,
         "sp_link": "https://shopee.vn/product/577527238/27983394037/"
