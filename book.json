@@ -6835,8 +6835,8 @@
     "options": [
       {
         "name": "default",
-        "fb_price": "Không hỗ trợ",
-        "quantity": 0,
+        "fb_price": 120000,
+        "quantity": 1,
         "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
@@ -7882,7 +7882,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/wy4eHERu5y4",
-    "type": ""
+    "type": "short-video"
   },
   "nha-tro-cua-nhung-dieu-da-mat-manga-full-bo": {
     "options": [
