@@ -1935,5 +1935,18 @@
     ],
     "video": "https://www.youtube.com/embed/PLNHzOgapuk",
     "type": "short-video"
+  },
+  "combo-thoi-gio-loc-manhwa-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 180000,
+        "quantity": 1,
+        "sp_price": 266000,
+        "sp_link": "https://shopee.vn/product/577527238/50504451073/"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/y405g_2O16k",
+    "type": "long-video"
   }
 }
