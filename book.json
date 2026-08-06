@@ -1961,5 +1961,18 @@
     ],
     "video": "https://www.youtube.com/embed/fJmtL1P6TGc",
     "type": "long-video"
+  },
+  "combo-black-cat-manga-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 500000,
+        "quantity": 1,
+        "sp_price": "Không hỗ trợ",
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/z5H7NYzAV34",
+    "type": "long-video"
   }
 }
