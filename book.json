@@ -1948,5 +1948,18 @@
     ],
     "video": "https://www.youtube.com/embed/y405g_2O16k",
     "type": "long-video"
+  },
+  "combo-vuong-bat-kien-vuong-tieu-thuyet-dam-my-tron-bo": {
+    "options": [
+      {
+        "name": "3965265684776617134",
+        "fb_price": 470000,
+        "quantity": 1,
+        "sp_price": 680000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/fJmtL1P6TGc",
+    "type": "none-video"
   }
 }
