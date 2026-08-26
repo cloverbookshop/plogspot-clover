@@ -1174,7 +1174,7 @@
       {
         "name": "default",
         "fb_price": 1400000,
-        "quantity": 1,
+        "quantity": 0,
         "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
