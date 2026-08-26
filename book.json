@@ -2109,5 +2109,18 @@
     ],
     "video": "https://www.youtube.com/embed/1kr3ZyxdKgc",
     "type": "short-video"
+  },
+  "combo-ho-so-mat-manga-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 520000,
+        "quantity": 0,
+        "sp_price": "Không hỗ trợ",
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
   }
 }
