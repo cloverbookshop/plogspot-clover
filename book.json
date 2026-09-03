@@ -2122,5 +2122,18 @@
     ],
     "video": "",
     "type": "none-video"
+  },
+  "hang-khong-ban-tieu-thuyet-dam-my": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 70000,
+        "quantity": 0,
+        "sp_price": 109000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
   }
 }
