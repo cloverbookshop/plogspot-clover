@@ -2135,5 +2135,31 @@
     ],
     "video": "",
     "type": "none-video"
+  },
+  "combo-cat-street-manga-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 150000,
+        "quantity": 0,
+        "sp_price": 223000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "combo-magi-me-cung-than-thoai-manga-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 1110000,
+        "quantity": 0,
+        "sp_price": "Không hỗ trợ",
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
   }
 }
