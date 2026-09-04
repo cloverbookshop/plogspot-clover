@@ -2173,7 +2173,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/RywYRhHpyTk",
-    "type": ""
+    "type": "short-video"
   },
   "combo-magi-nhung-cuoc-phieu-luu-cua-sinbad-manga-tron-bo": {
     "options": [
@@ -2186,7 +2186,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/obpLJmHXXxg",
-    "type": ""
+    "type": "short-video"
   },
   "combo-ac-ma-cua-chien-thang-manga-tron-bo": {
     "options": [
@@ -2225,7 +2225,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/IQeOpMXA-ic",
-    "type": ""
+    "type": "short-video"
   },
   "mashle-tap-18-kem-poster-manga-le": {
     "options": [
@@ -2238,7 +2238,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/pkjfT3RXUO8",
-    "type": ""
+    "type": "short-video"
   },
   "summer-time-render-vong-lap-mua-he-tap-13-ban-dac-biet": {
     "options": [
@@ -2251,7 +2251,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/sTGeaLbDcKA",
-    "type": ""
+    "type": "short-video"
   },
   "combo-duong-den-ngai-vang-manga-tron-bo": {
     "options": [
@@ -2277,6 +2277,6 @@
       }
     ],
     "video": "https://www.youtube.com/embed/PAx0KUMcs10",
-    "type": ""
+    "type": "short-video"
   }
 }
