@@ -785,7 +785,7 @@
         "name": "default",
         "fb_price": 490000,
         "quantity": 1,
-        "sp_price": 709000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
     ],
@@ -967,7 +967,7 @@
         "name": "default",
         "fb_price": 70000,
         "quantity": 1,
-        "sp_price": "Không hỗ trợ",
+        "sp_price": 109000,
         "sp_link": ""
       }
     ],
@@ -1071,7 +1071,7 @@
         "name": "default",
         "fb_price": 470000,
         "quantity": 0,
-        "sp_price": 680000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
     ],
@@ -1461,7 +1461,7 @@
         "name": "default",
         "fb_price": 120000,
         "quantity": 1,
-        "sp_price": "Không hỗ trợ",
+        "sp_price": 180000,
         "sp_link": ""
       }
     ],
@@ -1997,7 +1997,7 @@
         "name": "default",
         "fb_price": 470000,
         "quantity": 1,
-        "sp_price": 680000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
     ],
@@ -2103,7 +2103,7 @@
         "name": "default",
         "fb_price": 480000,
         "quantity": 0,
-        "sp_price": 695000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": "https://shopee.vn/product/577527238/42762740142/"
       }
     ],
@@ -2272,7 +2272,7 @@
         "name": "default",
         "fb_price": 450000,
         "quantity": 1,
-        "sp_price": 652000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": "https://shopee.vn/product/577527238/42762740142/"
       }
     ],
