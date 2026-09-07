@@ -967,7 +967,7 @@
         "name": "default",
         "fb_price": 70000,
         "quantity": 1,
-        "sp_price": 109000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
     ],
