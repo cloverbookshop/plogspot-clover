@@ -1,4 +1,16 @@
 {
+  "doll-len-priestess-arknights": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Priestess-Arknights-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.49912392156?extraParams=%7B%22display_model_id%22%3A262789868097%2C%22model_selection_logic%22%3A2%7D"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/jSV9QavEUug",
+    "type": "short-video"
+  },
   "doll-len-akagi-azur-lane": {
     "options": [
       {
@@ -17,401 +29,125 @@
     "video": "https://www.youtube.com/embed/uyoiZ3OuAlg",
     "type": "short-video"
   },
-  "doll-len-akaza-thanh-guom-diet-quy": {
+  "doll-len-shinano-chan-azur-lane": {
     "options": [
       {
-        "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-anya-forger-10cm-spy-x-family": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 125000,
-        "sp_price": 200000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-anya-forger-14cm-spy-x-family": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-arima-kousei-mini-loi-noi-doi-thang-tu": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 60000,
-        "sp_price": 100000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/ZqD2j-VPRaQ",
-    "type": "short-video"
-  },
-  "doll-len-avidius-mau-2-wuthering-waves": {
-    "options": [
-      {
-        "name": "default",
+        "name": "Full body 14cm",
         "fb_price": 350000,
         "sp_price": 520000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/g_HcclCYTxY",
-    "type": "short-video"
-  },
-  "doll-len-avidius-wuthering-waves": {
-    "options": [
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+      },
       {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
+        "name": "Phần đầu 6cm",
+        "fb_price": 180000,
+        "sp_price": 280000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
       }
     ],
-    "video": "https://www.youtube.com/embed/-WT8jP2VWM8",
+    "video": "https://www.youtube.com/embed/ZnmPFbB3vws",
     "type": "short-video"
   },
-  "doll-len-avidius-wuthering-waves-dau": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 150000,
-        "sp_price": 230000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/-WT8jP2VWM8",
-    "type": "short-video"
-  },
-  "doll-len-baymax": {
+  "doll-len-blue-archive-tachibana-nozomi-mini": {
     "options": [
       {
         "name": "default",
         "fb_price": 80000,
         "sp_price": 130000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/41452514837/"
       }
     ],
     "video": "",
     "type": "none-video"
   },
-  "doll-len-billow-thien-tuong-do-ach-lien-quan": {
+  "doll-len-blue-archive-yutori-natsu": {
     "options": [
       {
         "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/c9k-KQwh-Lk",
-    "type": "short-video"
-  },
-  "doll-len-bright-vua-ve-nhi-dau-lien-quan": {
-    "options": [
+        "fb_price": 300000,
+        "sp_price": 450000,
+        "sp_link": "https://shopee.vn/product/577527238/41452514837/"
+      },
       {
         "name": "default",
         "fb_price": 150000,
         "sp_price": 230000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/41452514837/"
       }
     ],
     "video": "",
     "type": "none-video"
   },
-  "doll-len-cartethyia-wuthering-waves": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/o2AQefsXms8",
-    "type": "short-video"
-  },
-  "doll-len-cartethyia-wuthering-waves-dau": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 180000,
-        "sp_price": 280000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/o2AQefsXms9",
-    "type": "short-video"
-  },
-  "doll-len-chloe-dapchier-mini-hoi-ki-vanitas": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 68000,
-        "sp_price": 120000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/0KDY4e3iujg",
-    "type": "short-video"
-  },
-  "doll-len-cho-size-lon": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 65000,
-        "sp_price": 110000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-cho-size-nho": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 40000,
-        "sp_price": 80000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-cristoforo-dau-wuthering-waves": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 200000,
-        "sp_price": 300000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-cristoforo-wuthering-waves": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 400000,
-        "sp_price": 590000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-damian-desmond-14cm-spy-x-family": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-dazai-osamu-van-hao-luu-lac": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-draco-malfoy-harry-potter": {
+  "doll-len-reze-chainsaw-man": {
     "options": [
       {
         "name": "default",
         "fb_price": 280000,
         "sp_price": 420000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/Doll-m%C3%B3c-len-nh%E1%BB%93i-b%C3%B4ng-Chainsaw-Man-Reze-Power-Makima-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.40253300217?extraParams=%7B%22display_model_id%22%3A345415284546%2C%22model_selection_logic%22%3A3%7D"
       }
     ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-draco-malfoy-mini-harry-potter": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 55000,
-        "sp_price": 100000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-durandal-uma-musume-pretty-derby": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-elizabeth-cos-gintoki-gintama": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 65000,
-        "sp_price": 110000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-emanuele-pessagno-azur-lane": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/a8HgayCtfUw",
+    "video": "https://www.youtube.com/embed/IZEEjVrHGZ4",
     "type": "short-video"
   },
-  "doll-len-emanuele-pessagno-dau-azur-lane": {
+  "doll-len-date-a-live-kotori-itsuka-mini": {
     "options": [
       {
         "name": "default",
-        "fb_price": 150000,
-        "sp_price": 230000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+        "fb_price": 75000,
+        "sp_price": 130000,
+        "sp_link": "https://shopee.vn/product/577527238/29517838565/"
       }
     ],
     "video": "",
     "type": "none-video"
   },
-  "doll-len-enjin-mini-gachiakuta": {
+  "doll-len-genshin-impact-kamisato-ayaka": {
     "options": [
       {
-        "name": "default",
-        "fb_price": 65000,
-        "sp_price": 110000,
-        "sp_link": ""
+        "name": "Full body (14cm)",
+        "fb_price": 400000,
+        "sp_price": 590000,
+        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
+      },
+      {
+        "name": "Phần đầu (6cm)",
+        "fb_price": 180000,
+        "sp_price": 280000,
+        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
       }
     ],
     "video": "",
     "type": "none-video"
   },
-  "doll-len-enterprise-azur-lane": {
+  "doll-len-genshin-impact-scaramouche": {
     "options": [
       {
         "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/ity67ZWz1Yc",
-    "type": "short-video"
-  },
-  "doll-len-evan-buckley-9-1-1": {
-    "options": [
+        "fb_price": 400000,
+        "sp_price": 590000,
+        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
+      },
       {
         "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM",
-    "type": "short-video"
-  },
-  "doll-len-frieren-dau-frieren-phap-su-tien-tang": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 150000,
-        "sp_price": 230000,
-        "sp_link": ""
+        "fb_price": 200000,
+        "sp_price": 300000,
+        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
       }
     ],
     "video": "",
     "type": "none-video"
   },
-  "doll-len-frieren-frieren-phap-su-tien-tang": {
+  "doll-len-genshin-impact-scarameow": {
     "options": [
       {
         "name": "default",
-        "fb_price": 330000,
-        "sp_price": 490000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/QVWP0jwNWlk",
-    "type": "short-video"
-  },
-  "doll-len-gintoki-dau-gintama": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 150000,
-        "sp_price": 230000,
-        "sp_link": ""
+        "fb_price": 75000,
+        "sp_price": 130000,
+        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
       }
     ],
     "video": "",
     "type": "none-video"
-  },
-  "doll-len-gintoki-gintama": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-gintoki-mini-gintama": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 65000,
-        "sp_price": 110000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/9eHBaPIl1-w",
-    "type": "short-video"
   },
   "doll-len-girls-last-tour-chito": {
     "options": [
@@ -449,28 +185,94 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len-priestess-arknights": {
+  "doll-len-harry-potter-draco-malfoy-mini": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 55000,
+        "sp_price": 100000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len-hoi-ki-vanitas-vanitas": {
+    "options": [
+      {
+        "name": "Full body (14cm)",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/product/577527238/26217329036"
+      },
+      {
+        "name": "Phần đầu (6cm)",
+        "fb_price": 150000,
+        "sp_price": 230000,
+        "sp_link": "https://shopee.vn/product/577527238/26217329036"
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len-hoi-ki-vanitas-chloe-dapchier-mini": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 75000,
+        "sp_price": 130000,
+        "sp_link": "https://shopee.vn/product/577527238/26217329036"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/0KDY4e3iujg",
+    "type": "short-video"
+  },
+  "doll-len-honkai-star-rail-kafka": {
+    "options": [
+      {
+        "name": "Full body (14cm)",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": ""
+      },
+      {
+        "name": "Phần đầu (6cm)",
+        "fb_price": 0,
+        "sp_price": "",
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/P35mIKTwdlA",
+    "type": "short-video"
+  },
+  "doll-len-lien-quan-laville-chien-than-moba": {
+    "options": [
+      {
+        "name": "Full body (14cm)",
+        "fb_price": 180000,
+        "sp_price": 280000,
+        "sp_link": ""
+      },
+      {
+        "name": "Phần đầu + mũ (6cm)",
+        "fb_price": 380000,
+        "sp_price": 560000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len-lien-quan-billow-thien-tuong-do-ach": {
     "options": [
       {
         "name": "default",
         "fb_price": 350000,
         "sp_price": 520000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Priestess-Arknights-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.49912392156?extraParams=%7B%22display_model_id%22%3A262789868097%2C%22model_selection_logic%22%3A2%7D"
+        "sp_link": ""
       }
     ],
-    "video": "https://www.youtube.com/embed/jSV9QavEUug",
-    "type": "short-video"
-  },
-  "doll-len-reze-chainsaw-man": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 280000,
-        "sp_price": 420000,
-        "sp_link": "https://shopee.vn/Doll-m%C3%B3c-len-nh%E1%BB%93i-b%C3%B4ng-Chainsaw-Man-Reze-Power-Makima-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-l%C3%A0m-qu%C3%A0-t%E1%BA%B7ng-i.577527238.40253300217?extraParams=%7B%22display_model_id%22%3A345415284546%2C%22model_selection_logic%22%3A3%7D"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/IZEEjVrHGZ4",
+    "video": "https://www.youtube.com/embed/c9k-KQwh-Lk",
     "type": "short-video"
   },
   "doll-len-luc-do-toi-da-chuyen-sinh-thanh-slime-rimuru-tempest-maid-outfit-mau-2": {
@@ -485,23 +287,17 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len-shinano-chan-azur-lane": {
+  "doll-len-serial-experiments-lain-lain-iwakura-bear-pajamas": {
     "options": [
       {
-        "name": "Full body 14cm",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
-      },
-      {
-        "name": "Phần đầu 6cm",
-        "fb_price": 180000,
-        "sp_price": 280000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+        "name": "default",
+        "fb_price": 300000,
+        "sp_price": 450000,
+        "sp_link": ""
       }
     ],
-    "video": "https://www.youtube.com/embed/ZnmPFbB3vws",
-    "type": "short-video"
+    "video": "",
+    "type": "none-video"
   },
   "doll-len-wuthering-waves-aemeath": {
     "options": [
@@ -514,5 +310,17 @@
     ],
     "video": "",
     "type": "none-video"
+  },
+  "doll-len--the-shorekeeper": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 370000,
+        "sp_price": 550000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
+    "type": "short-video"
   }
 }
