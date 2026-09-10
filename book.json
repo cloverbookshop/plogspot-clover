@@ -1461,7 +1461,7 @@
         "name": "default",
         "fb_price": 120000,
         "quantity": 1,
-        "sp_price": 180000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
     ],
@@ -2277,6 +2277,19 @@
       }
     ],
     "video": "https://www.youtube.com/embed/PAx0KUMcs10",
+    "type": "short-video"
+  },
+  "oshi-no-ko-duoi-anh-hao-quang-tap-3-ban-dac-biet-manga": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 138000,
+        "quantity": 1,
+        "sp_price": 206000,
+        "sp_link": "https://shopee.vn/product/577527238/27767344239/"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/o8va0zS2he0",
     "type": "short-video"
   }
 }
