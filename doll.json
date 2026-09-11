@@ -53,10 +53,10 @@
     "video": "https://www.youtube.com/embed/ZnmPFbB3vws",
     "type": "short-video"
   },
-  "doll-len-blue-archive-tachibana-nozomi-mini": {
+  "doll-len-blue-archive-tachibana-nozomi": {
     "options": [
       {
-        "name": "default",
+        "name": "Mini",
         "fb_price": 80000,
         "sp_price": 130000,
         "sp_link": "https://shopee.vn/product/577527238/41452514837/"
@@ -95,10 +95,10 @@
     "video": "https://www.youtube.com/embed/IZEEjVrHGZ4",
     "type": "short-video"
   },
-  "doll-len-date-a-live-kotori-itsuka-mini": {
+  "doll-len-date-a-live-kotori-itsuka": {
     "options": [
       {
-        "name": "default",
+        "name": "Mini",
         "fb_price": 75000,
         "sp_price": 130000,
         "sp_link": "https://shopee.vn/product/577527238/29517838565/"
@@ -224,7 +224,7 @@
   "doll-len-hoi-ki-vanitas-chloe-dapchier-mini": {
     "options": [
       {
-        "name": "default",
+        "name": "Mini",
         "fb_price": 75000,
         "sp_price": 130000,
         "sp_link": "https://shopee.vn/product/577527238/26217329036"
