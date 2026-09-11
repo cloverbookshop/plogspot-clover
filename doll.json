@@ -2,9 +2,15 @@
   "doll-len-priestess-arknights": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body 14cm",
         "fb_price": 350000,
         "sp_price": 520000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Priestess-Arknights-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.49912392156?extraParams=%7B%22display_model_id%22%3A262789868097%2C%22model_selection_logic%22%3A2%7D"
+      },
+      {
+        "name": "Phần đầu 6cm",
+        "fb_price": 150000,
+        "sp_price": 230000,
         "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Priestess-Arknights-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.49912392156?extraParams=%7B%22display_model_id%22%3A262789868097%2C%22model_selection_logic%22%3A2%7D"
       }
     ],
