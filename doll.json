@@ -395,6 +395,42 @@
     "video": "https://www.youtube.com/embed/o2AQefsXms8",
     "type": "short-video"
   },
+  "doll-len-wuthering-waves-phrolova": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/product/577527238/42152806433"
+      },
+      {
+        "name": "default",
+        "fb_price": 170000,
+        "sp_price": 260000,
+        "sp_link": "https://shopee.vn/product/577527238/42152806433"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/o2AQefsXms9",
+    "type": "short-video"
+  },
+  "doll-len-wuthering-waves-the-shorekeeper": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 370000,
+        "sp_price": 550000,
+        "sp_link": ""
+      },
+      {
+        "name": "default",
+        "fb_price": 180000,
+        "sp_price": 280000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
+    "type": "short-video"
+  },
   "doll-len--arima-kousei": {
     "options": [
       {
@@ -747,30 +783,6 @@
       }
     ],
     "video": "https://www.youtube.com/embed/-y3Lo14_TTw",
-    "type": "short-video"
-  },
-  "doll-len--phrolova": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 170000,
-        "sp_price": 260000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len--the-shorekeeper": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 370000,
-        "sp_price": 550000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
     "type": "short-video"
   }
 }
