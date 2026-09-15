@@ -2266,7 +2266,7 @@
         "name": "default",
         "fb_price": 150000,
         "quantity": 1,
-        "sp_price": 223000,
+        "sp_price": "Không hỗ trợ",
         "sp_link": ""
       }
     ],
@@ -2286,7 +2286,7 @@
     "video": "https://www.youtube.com/embed/PAx0KUMcs10",
     "type": "short-video"
   },
-  "oshi-no-ko-duoi-anh-hao-quang-tap-3-ban-dac-biet-manga": {
+  "oshi-no-ko-duoi-anh-hao-quang-tap-3-ban-dac-biet-manga-le": {
     "options": [
       {
         "name": "default",
@@ -2336,6 +2336,71 @@
       }
     ],
     "video": "https://www.youtube.com/embed/eOaMcxAj9zk",
+    "type": ""
+  },
+  "combo-boxset-tieng-hat-tu-trai-tim-manga-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 160000,
+        "quantity": 1,
+        "sp_price": 238000,
+        "sp_link": "https://shopee.vn/product/577527238/52703940578/"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/KbYmpBTR5q0",
+    "type": ""
+  },
+  "combo-mien-an-lac-manga-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 200000,
+        "quantity": 1,
+        "sp_price": 295000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/CLly-2YnbNE",
+    "type": ""
+  },
+  "combo-the-vi-thuong-tieu-thuyet-dam-my-tron-bo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 300000,
+        "quantity": 0,
+        "sp_price": 438000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/HGVf-VLjZbA",
+    "type": ""
+  },
+  "thuyet-tan-tinh-cau-tieu-thuyet-dam-my": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 150000,
+        "quantity": 1,
+        "sp_price": 223000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/BXq2VReG59A",
+    "type": ""
+  },
+  "solanin-ban-dac-biet-manga": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 120000,
+        "quantity": 0,
+        "sp_price": 180000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/lJw05dhQ3ns",
     "type": ""
   }
 }
