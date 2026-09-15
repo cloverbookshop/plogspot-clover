@@ -35,6 +35,18 @@
     "video": "https://www.youtube.com/embed/uyoiZ3OuAlg",
     "type": "short-video"
   },
+  "doll-len-azur-lane-emanuele": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 150000,
+        "sp_price": 230000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
   "doll-len-shinano-chan-azur-lane": {
     "options": [
       {
@@ -52,18 +64,6 @@
     ],
     "video": "https://www.youtube.com/embed/ZnmPFbB3vws",
     "type": "short-video"
-  },
-  "doll-len-azur-lane-emanuele": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 150000,
-        "sp_price": 230000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
-      }
-    ],
-    "video": "",
-    "type": "none-video"
   },
   "doll-len-blue-archive-tachibana-nozomi": {
     "options": [
@@ -149,6 +149,18 @@
     "video": "",
     "type": "none-video"
   },
+  "doll-len-genshin-impact-scarameow": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 75000,
+        "sp_price": 130000,
+        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
   "doll-len-genshin-impact-scaramouche": {
     "options": [
       {
@@ -161,18 +173,6 @@
         "name": "default",
         "fb_price": 200000,
         "sp_price": 300000,
-        "sp_link": "https://shopee.vn/product/577527238/40301017008/"
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len-genshin-impact-scarameow": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 75000,
-        "sp_price": 130000,
         "sp_link": "https://shopee.vn/product/577527238/40301017008/"
       }
     ],
@@ -227,6 +227,18 @@
     "video": "",
     "type": "none-video"
   },
+  "doll-len-hoi-ki-vanitas-chloe-dapchier-mini": {
+    "options": [
+      {
+        "name": "Mini",
+        "fb_price": 75000,
+        "sp_price": 130000,
+        "sp_link": "https://shopee.vn/product/577527238/26217329036"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/0KDY4e3iujg",
+    "type": "short-video"
+  },
   "doll-len-hoi-ki-vanitas-vanitas": {
     "options": [
       {
@@ -244,18 +256,6 @@
     ],
     "video": "",
     "type": "none-video"
-  },
-  "doll-len-hoi-ki-vanitas-chloe-dapchier-mini": {
-    "options": [
-      {
-        "name": "Mini",
-        "fb_price": 75000,
-        "sp_price": 130000,
-        "sp_link": "https://shopee.vn/product/577527238/26217329036"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/0KDY4e3iujg",
-    "type": "short-video"
   },
   "doll-len-honkai-star-rail-kafka": {
     "options": [
@@ -275,6 +275,18 @@
     "video": "https://www.youtube.com/embed/P35mIKTwdlA",
     "type": "short-video"
   },
+  "doll-len-lien-quan-billow-thien-tuong-do-ach": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/c9k-KQwh-Lk",
+    "type": "short-video"
+  },
   "doll-len-lien-quan-laville-chien-than-moba": {
     "options": [
       {
@@ -292,18 +304,6 @@
     ],
     "video": "",
     "type": "none-video"
-  },
-  "doll-len-lien-quan-billow-thien-tuong-do-ach": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/c9k-KQwh-Lk",
-    "type": "short-video"
   },
   "doll-len-luc-do-toi-da-chuyen-sinh-thanh-slime-rimuru-tempest-maid-outfit-mau-2": {
     "options": [
@@ -341,24 +341,6 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len-wuthering-waves-avidius-mau-2": {
-    "options": [
-      {
-        "name": "Full body (14cm)",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": "https://shopee.vn/product/577527238/42152806433"
-      },
-      {
-        "name": "Phần đầu (6cm)",
-        "fb_price": 170000,
-        "sp_price": 260000,
-        "sp_link": "https://shopee.vn/product/577527238/42152806433"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/g_HcclCYTxY",
-    "type": "short-video"
-  },
   "doll-len-wuthering-waves-avidius": {
     "options": [
       {
@@ -377,16 +359,34 @@
     "video": "https://www.youtube.com/embed/-WT8jP2VWM8",
     "type": "short-video"
   },
+  "doll-len-wuthering-waves-avidius-ban-corrupted": {
+    "options": [
+      {
+        "name": "Full body (14cm)",
+        "fb_price": 370000,
+        "sp_price": 550000,
+        "sp_link": "https://shopee.vn/product/577527238/42152806433"
+      },
+      {
+        "name": "Phần đầu (6cm)",
+        "fb_price": 170000,
+        "sp_price": 260000,
+        "sp_link": "https://shopee.vn/product/577527238/42152806433"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/g_HcclCYTxY",
+    "type": "short-video"
+  },
   "doll-len-wuthering-waves-cartethyia": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body (14cm)",
         "fb_price": 350000,
         "sp_price": 520000,
         "sp_link": "https://shopee.vn/product/577527238/42152806433"
       },
       {
-        "name": "default",
+        "name": "Phần đầu (6cm)",
         "fb_price": 180000,
         "sp_price": 280000,
         "sp_link": "https://shopee.vn/product/577527238/42152806433"
@@ -395,16 +395,34 @@
     "video": "https://www.youtube.com/embed/o2AQefsXms8",
     "type": "short-video"
   },
+  "doll-len-wuthering-waves-cristoforo": {
+    "options": [
+      {
+        "name": "Full body (14cm)",
+        "fb_price": 400000,
+        "sp_price": 590000,
+        "sp_link": ""
+      },
+      {
+        "name": "Phần đầu (6cm)",
+        "fb_price": 200000,
+        "sp_price": 300000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
+    "type": "short-video"
+  },
   "doll-len-wuthering-waves-phrolova": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body (14cm)",
         "fb_price": 350000,
         "sp_price": 520000,
         "sp_link": "https://shopee.vn/product/577527238/42152806433"
       },
       {
-        "name": "default",
+        "name": "Phần đầu (6cm)",
         "fb_price": 170000,
         "sp_price": 260000,
         "sp_link": "https://shopee.vn/product/577527238/42152806433"
@@ -416,13 +434,13 @@
   "doll-len-wuthering-waves-the-shorekeeper": {
     "options": [
       {
-        "name": "default",
-        "fb_price": 370000,
-        "sp_price": 550000,
+        "name": "Full body (14cm)",
+        "fb_price": 380000,
+        "sp_price": 560000,
         "sp_link": ""
       },
       {
-        "name": "default",
+        "name": "Phần đầu (6cm)",
         "fb_price": 180000,
         "sp_price": 280000,
         "sp_link": ""
@@ -430,6 +448,18 @@
     ],
     "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
     "type": "short-video"
+  },
+  "doll-len--aponia": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 125000,
+        "sp_price": 200000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
   },
   "doll-len--arima-kousei": {
     "options": [
@@ -441,6 +471,18 @@
       }
     ],
     "video": "https://www.youtube.com/embed/ZqD2j-VPRaQ",
+    "type": "short-video"
+  },
+  "doll-len--bom-nay": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 170000,
+        "sp_price": 260000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/sQBaxUvuK0E",
     "type": "short-video"
   },
   "doll-len--bright": {
@@ -530,20 +572,20 @@
   "doll-len--gintoki": {
     "options": [
       {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
-      },
-      {
         "name": "Mini",
         "fb_price": 65000,
         "sp_price": 110000,
         "sp_link": ""
+      },
+      {
+        "name": "default",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": ""
       }
     ],
-    "video": "",
-    "type": "none-video"
+    "video": "https://www.youtube.com/embed/9eHBaPIl1-w",
+    "type": "short-video"
   },
   "doll-len--hakuji": {
     "options": [
@@ -575,18 +617,6 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len--tohru": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
   "doll-len--hayate": {
     "options": [
       {
@@ -602,15 +632,15 @@
   "doll-len--hermione": {
     "options": [
       {
-        "name": "default",
-        "fb_price": 280000,
-        "sp_price": 420000,
-        "sp_link": ""
-      },
-      {
         "name": "mini",
         "fb_price": 55000,
         "sp_price": 100000,
+        "sp_link": ""
+      },
+      {
+        "name": "default",
+        "fb_price": 280000,
+        "sp_price": 420000,
         "sp_link": ""
       }
     ],
@@ -629,41 +659,17 @@
     "video": "https://www.youtube.com/embed/tAUkQq6fq5o",
     "type": "short-video"
   },
-  "doll-len--aponia": {
+  "doll-len--jinshi": {
     "options": [
       {
         "name": "default",
-        "fb_price": 125000,
-        "sp_price": 200000,
+        "fb_price": 300000,
+        "sp_price": 450000,
         "sp_link": ""
       }
     ],
     "video": "",
     "type": "none-video"
-  },
-  "doll-len--lantern": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 125000,
-        "sp_price": 200000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
-  "doll-len--bom-nay": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 170000,
-        "sp_price": 260000,
-        "sp_link": ""
-      }
-    ],
-    "video": "https://www.youtube.com/embed/sQBaxUvuK0E",
-    "type": "short-video"
   },
   "doll-len--kagarino-kirie": {
     "options": [
@@ -702,6 +708,18 @@
     "type": "none-video"
   },
   "doll-len--kozi": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 125000,
+        "sp_price": 200000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len--lantern": {
     "options": [
       {
         "name": "default",
@@ -761,18 +779,6 @@
     "video": "https://www.youtube.com/embed/XlrzgwswFIM",
     "type": "short-video"
   },
-  "doll-len--jinshi": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 300000,
-        "sp_price": 450000,
-        "sp_link": ""
-      }
-    ],
-    "video": "",
-    "type": "none-video"
-  },
   "doll-len--pchan": {
     "options": [
       {
@@ -784,5 +790,17 @@
     ],
     "video": "https://www.youtube.com/embed/-y3Lo14_TTw",
     "type": "short-video"
+  },
+  "doll-len--tohru": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 300000,
+        "sp_price": 450000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
   }
 }
