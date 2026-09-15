@@ -278,7 +278,13 @@
   "doll-len-lien-quan-billow-thien-tuong-do-ach": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body (14cm)",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": ""
+      },
+      {
+        "name": "Phần đầu (6cm)",
         "fb_price": 350000,
         "sp_price": 520000,
         "sp_link": ""
@@ -291,14 +297,14 @@
     "options": [
       {
         "name": "Full body (14cm)",
-        "fb_price": 180000,
-        "sp_price": 280000,
+        "fb_price": 380000,
+        "sp_price": 560000,
         "sp_link": ""
       },
       {
         "name": "Phần đầu + mũ (6cm)",
-        "fb_price": 380000,
-        "sp_price": 560000,
+        "fb_price": 180000,
+        "sp_price": 280000,
         "sp_link": ""
       }
     ],
