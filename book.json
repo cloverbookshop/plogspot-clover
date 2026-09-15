@@ -2336,7 +2336,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/eOaMcxAj9zk",
-    "type": ""
+    "type": "short-video"
   },
   "combo-boxset-tieng-hat-tu-trai-tim-manga-tron-bo": {
     "options": [
@@ -2349,7 +2349,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/KbYmpBTR5q0",
-    "type": ""
+    "type": "short-video"
   },
   "combo-mien-an-lac-manga-tron-bo": {
     "options": [
@@ -2362,7 +2362,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/CLly-2YnbNE",
-    "type": ""
+    "type": "short-video"
   },
   "combo-the-vi-thuong-tieu-thuyet-dam-my-tron-bo": {
     "options": [
@@ -2388,7 +2388,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/BXq2VReG59A",
-    "type": ""
+    "type": "short-video"
   },
   "solanin-ban-dac-biet-manga": {
     "options": [
@@ -2401,6 +2401,6 @@
       }
     ],
     "video": "https://www.youtube.com/embed/lJw05dhQ3ns",
-    "type": ""
+    "type": "short-video"
   }
 }
