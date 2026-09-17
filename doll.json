@@ -1,4 +1,16 @@
 {
+  "doll-len-arknight-priestess": {
+    "options": [
+      {
+        "name": "Mini",
+        "fb_price": 65000,
+        "sp_price": 110000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Priestess-Arknights-Nh%C3%A2n-v%E1%BA%ADt-manga-anime-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.49912392156?extraParams=%7B%22display_model_id%22%3A262789868097%2C%22model_selection_logic%22%3A2%7D"
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
   "doll-len-priestess-arknights": {
     "options": [
       {
@@ -35,17 +47,41 @@
     "video": "https://www.youtube.com/embed/uyoiZ3OuAlg",
     "type": "short-video"
   },
-  "doll-len-azur-lane-emanuele": {
+  "doll-len-azur-lane-emanuele-pessagno": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body 14cm",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+      },
+      {
+        "name": "Phần đầu 6cm",
         "fb_price": 150000,
         "sp_price": 230000,
         "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
       }
     ],
-    "video": "",
-    "type": "none-video"
+    "video": "https://www.youtube.com/embed/a8HgayCtfUw",
+    "type": "short-video"
+  },
+  "doll-len-azur-lane-enterprise": {
+    "options": [
+      {
+        "name": "f",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+      },
+      {
+        "name": "p",
+        "fb_price": 170000,
+        "sp_price": 260000,
+        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/ity67ZWz1Yc",
+    "type": "short-video"
   },
   "doll-len-shinano-chan-azur-lane": {
     "options": [
@@ -275,37 +311,55 @@
     "video": "https://www.youtube.com/embed/P35mIKTwdlA",
     "type": "short-video"
   },
-  "doll-len-lien-quan-billow-thien-tuong-do-ach": {
+  "doll-len-lien-quan-mobile-billow-thien-tuong-do-ach": {
     "options": [
       {
         "name": "Full body (14cm)",
         "fb_price": 350000,
         "sp_price": 520000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
       },
       {
         "name": "Phần đầu (6cm)",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": ""
+        "fb_price": 180000,
+        "sp_price": 280000,
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
       }
     ],
     "video": "https://www.youtube.com/embed/c9k-KQwh-Lk",
     "type": "short-video"
   },
-  "doll-len-lien-quan-laville-chien-than-moba": {
+  "doll-len-lien-quan-mobile-laville-chien-than-moba": {
     "options": [
       {
         "name": "Full body (14cm)",
         "fb_price": 380000,
         "sp_price": 560000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
       },
       {
         "name": "Phần đầu + mũ (6cm)",
         "fb_price": 180000,
         "sp_price": 280000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/9Dp57-5uzbc",
+    "type": "short-video"
+  },
+  "doll-len-lien-quan-mobile-zata-tac-gia-duong-dai": {
+    "options": [
+      {
+        "name": "Full body 14cm",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
+      },
+      {
+        "name": "Phần đầu 6cm",
+        "fb_price": 150000,
+        "sp_price": 230000,
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
       }
     ],
     "video": "",
@@ -526,30 +580,6 @@
     ],
     "video": "",
     "type": "none-video"
-  },
-  "doll-len--emanuele": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/a8HgayCtfUw",
-    "type": "short-video"
-  },
-  "doll-len--enterprise": {
-    "options": [
-      {
-        "name": "default",
-        "fb_price": 350000,
-        "sp_price": 520000,
-        "sp_link": "https://shopee.vn/Doll-len-nh%E1%BB%93i-b%C3%B4ng-Azur-Lane-Akagi-Shinano-Emanuele-Pessagno-Nh%C3%A2n-v%E1%BA%ADt-game-handmade-g%E1%BA%AFn-t%C3%BAi-trang-tr%C3%AD-qu%C3%A0-t%E1%BA%B7ng-i.577527238.27983394037?extraParams=%7B%22display_model_id%22%3A370595818980%2C%22model_selection_logic%22%3A3%7D"
-      }
-    ],
-    "video": "https://www.youtube.com/embed/ity67ZWz1Yc",
-    "type": "short-video"
   },
   "doll-len--evan-buckley": {
     "options": [
@@ -777,8 +807,8 @@
     "options": [
       {
         "name": "default",
-        "fb_price": 70000,
-        "sp_price": 120000,
+        "fb_price": 80000,
+        "sp_price": 130000,
         "sp_link": ""
       }
     ],
@@ -797,6 +827,36 @@
     "video": "https://www.youtube.com/embed/-y3Lo14_TTw",
     "type": "short-video"
   },
+  "doll-len--sakura": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": ""
+      },
+      {
+        "name": "default",
+        "fb_price": 400000,
+        "sp_price": 590000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len--tanjiro": {
+    "options": [
+      {
+        "name": "Mini",
+        "fb_price": 70000,
+        "sp_price": 120000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/LgeVD-v6j0g",
+    "type": "short-video"
+  },
   "doll-len--tohru": {
     "options": [
       {
@@ -808,5 +868,35 @@
     ],
     "video": "",
     "type": "none-video"
+  },
+  "doll-len--tomoyo": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": ""
+      },
+      {
+        "name": "default",
+        "fb_price": 400000,
+        "sp_price": 590000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
+  },
+  "doll-len--zanka": {
+    "options": [
+      {
+        "name": "Mini",
+        "fb_price": 65000,
+        "sp_price": 110000,
+        "sp_link": ""
+      }
+    ],
+    "video": "https://www.youtube.com/embed/demwyhEng6E",
+    "type": "short-video"
   }
 }
