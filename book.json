@@ -2021,8 +2021,8 @@
         "sp_link": ""
       }
     ],
-    "video": "https://www.youtube.com/embed/z5H7NYzAV34",
-    "type": "long-video"
+    "video": "https://www.youtube.com/embed/v_hR15TuK1g",
+    "type": "short-video"
   },
   "combo-tinh-ban-dich-thuc-manga-tron-bo": {
     "options": [
@@ -2401,6 +2401,19 @@
       }
     ],
     "video": "https://www.youtube.com/embed/lJw05dhQ3ns",
+    "type": "short-video"
+  },
+  "khoa-chat-cua-nao-suzume-ban-dac-biet-bia-cung-light-novel": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 200000,
+        "quantity": 1,
+        "sp_price": 295000,
+        "sp_link": "https://shopee.vn/product/577527238/55854147636/"
+      }
+    ],
+    "video": "https://www.youtube.com/embed/d2WVVFGN_xk",
     "type": "short-video"
   }
 }
