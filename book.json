@@ -231,7 +231,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/CzEUQ3sIz9E",
-    "type": "short-video"
+    "type": "long-video"
   },
   "bo-cau-khong-dua-thu-nguyen-nhat-anh": {
     "options": [
@@ -777,7 +777,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/5OUzAPIhPrM",
-    "type": "short-video"
+    "type": "long-video"
   },
   "combo-du-long-tuy-nguyet-full-bo": {
     "options": [
@@ -1996,7 +1996,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/ETMZpuv308Q",
-    "type": "long-video"
+    "type": "short-video"
   },
   "combo-vuong-bat-kien-vuong-tieu-thuyet-dam-my-tron-bo": {
     "options": [
@@ -2035,7 +2035,7 @@
       }
     ],
     "video": "https://www.youtube.com/embed/qAeTnc0JaA8",
-    "type": ""
+    "type": "short-video"
   },
   "boy-meets-maria-ban-dac-biet-bl-manga": {
     "options": [
