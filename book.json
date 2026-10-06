@@ -2270,8 +2270,8 @@
         "sp_link": ""
       }
     ],
-    "video": "",
-    "type": "none-video"
+    "video": "https://www.youtube.com/embed/FJ-A0MQV9rM",
+    "type": "short-video"
   },
   "combo-blue-flag-manga-tron-bo": {
     "options": [
@@ -2415,5 +2415,18 @@
     ],
     "video": "https://www.youtube.com/embed/d2WVVFGN_xk",
     "type": "short-video"
+  },
+  "crimsonshell-doa-hong-do-tham-manga": {
+    "options": [
+      {
+        "name": "default",
+        "fb_price": 36000,
+        "quantity": 0,
+        "sp_price": 60000,
+        "sp_link": ""
+      }
+    ],
+    "video": "",
+    "type": "none-video"
   }
 }
