@@ -393,7 +393,7 @@
     "options": [
       {
         "name": "default",
-        "fb_price": 550000,
+        "fb_price": 580000,
         "quantity": 1,
         "sp_price": "Không hỗ trợ",
         "sp_link": ""
@@ -1215,7 +1215,7 @@
         "fb_price": 215000,
         "quantity": 0,
         "sp_price": 316000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/1nb6wfkr6BU",
@@ -1358,7 +1358,7 @@
         "fb_price": 65000,
         "quantity": 0,
         "sp_price": 102000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/Qf3wUTLjtes",
@@ -1940,7 +1940,7 @@
         "fb_price": 660000,
         "quantity": 0,
         "sp_price": "Không hỗ trợ",
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/paLPzD86YjM",
@@ -2371,7 +2371,7 @@
         "fb_price": 300000,
         "quantity": 0,
         "sp_price": 438000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/HGVf-VLjZbA",
@@ -2397,7 +2397,7 @@
         "fb_price": 120000,
         "quantity": 0,
         "sp_price": 180000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/lJw05dhQ3ns",
