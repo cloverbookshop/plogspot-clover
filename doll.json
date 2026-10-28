@@ -470,10 +470,16 @@
   "doll-len-serial-experiments-lain-lain-iwakura-bear-pajamas": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body 14cm",
         "fb_price": 300000,
         "sp_price": 450000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/26429830683/"
+      },
+      {
+        "name": "Phần đầu 6cm",
+        "fb_price": 150000,
+        "sp_price": 230000,
+        "sp_link": "https://shopee.vn/product/577527238/26429830683/"
       }
     ],
     "video": "",
@@ -653,7 +659,7 @@
     "video": "https://www.youtube.com/embed/NW4OmP5mTYg",
     "type": "short-video"
   },
-  "doll-len--aponia": {
+  "doll-len-honkai-impact-3rd-aponia": {
     "options": [
       {
         "name": "default",
@@ -737,8 +743,14 @@
     "video": "https://www.youtube.com/embed/r30TmGV_3NM",
     "type": "short-video"
   },
-  "doll-len--frieren": {
+  "doll-len-frieren-phap-su-tien-tang-frieren": {
     "options": [
+      {
+        "name": "default",
+        "fb_price": 330000,
+        "sp_price": 490000,
+        "sp_link": ""
+      },
       {
         "name": "default",
         "fb_price": 330000,
@@ -749,14 +761,20 @@
     "video": "https://www.youtube.com/embed/QVWP0jwNWlk",
     "type": "short-video"
   },
-  "doll-len--gintoki": {
+  "doll-len-gintama-gintoki": {
     "options": [
       {
         "name": "Mini",
         "fb_price": 65000,
         "sp_price": 110000,
         "sp_link": ""
-      },
+      }
+    ],
+    "video": "https://www.youtube.com/embed/9eHBaPIl1-w",
+    "type": "short-video"
+  },
+  "doll-len--gintoki": {
+    "options": [
       {
         "name": "default",
         "fb_price": 350000,
@@ -764,8 +782,8 @@
         "sp_link": ""
       }
     ],
-    "video": "https://www.youtube.com/embed/9eHBaPIl1-w",
-    "type": "short-video"
+    "video": "",
+    "type": "none-video"
   },
   "doll-len--hakuji": {
     "options": [
@@ -827,10 +845,10 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len--hijikata": {
+  "doll-len-gintama-hijikata": {
     "options": [
       {
-        "name": "default",
+        "name": "Mini",
         "fb_price": 65000,
         "sp_price": 110000,
         "sp_link": ""
@@ -887,7 +905,7 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len--kozi": {
+  "doll-len-malice-mizer-kozi": {
     "options": [
       {
         "name": "default",
@@ -899,7 +917,7 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len--lantern": {
+  "doll-len-honkai-impact-3rd-lantern": {
     "options": [
       {
         "name": "default",
@@ -950,7 +968,7 @@
   "doll-len--nezuko": {
     "options": [
       {
-        "name": "default",
+        "name": "Mini",
         "fb_price": 80000,
         "sp_price": 130000,
         "sp_link": ""
@@ -995,7 +1013,7 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len--zanka": {
+  "doll-len-gachiakuta-zanka": {
     "options": [
       {
         "name": "Mini",
@@ -1031,7 +1049,7 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len--rimuru-maid-m1": {
+  "doll-len--rimuru-tempest-maid-outfit": {
     "options": [
       {
         "name": "default",
@@ -1127,19 +1145,19 @@
         "name": "default",
         "fb_price": 50000,
         "sp_price": 90000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/44385208394/"
       }
     ],
     "video": "",
     "type": "none-video"
   },
-  "doll-len-pokemon-smoliv": {
+  "moc-koa-len-amigurumi-pokemon-smoliv": {
     "options": [
       {
-        "name": "default",
+        "name": "mini",
         "fb_price": 50000,
         "sp_price": 90000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/40335218324/"
       }
     ],
     "video": "",
@@ -1151,7 +1169,7 @@
         "name": "default",
         "fb_price": 50000,
         "sp_price": 90000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/49519392444/"
       }
     ],
     "video": "",
