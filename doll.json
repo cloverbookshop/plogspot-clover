@@ -131,19 +131,19 @@
     "video": "",
     "type": "none-video"
   },
-  "doll-len-cardcaptor-sakura-sakura": {
+  "doll-len-cardcaptor-sakura-kinomoto-sakura": {
     "options": [
       {
-        "name": "default",
+        "name": "Full body 13cm",
         "fb_price": 350000,
         "sp_price": 520000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/28830008157/"
       },
       {
-        "name": "default",
+        "name": "Phần đầu 6cm",
         "fb_price": 200000,
         "sp_price": 300000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/28830008157/"
       }
     ],
     "video": "",
@@ -155,13 +155,13 @@
         "name": "default",
         "fb_price": 350000,
         "sp_price": 520000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/28830008157/"
       },
       {
         "name": "default",
         "fb_price": 200000,
         "sp_price": 300000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/28830008157/"
       }
     ],
     "video": "",
