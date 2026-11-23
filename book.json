@@ -2015,7 +2015,7 @@
     "options": [
       {
         "name": "default",
-        "fb_price": 500000,
+        "fb_price": 600000,
         "quantity": 1,
         "sp_price": "Không hỗ trợ",
         "sp_link": ""
