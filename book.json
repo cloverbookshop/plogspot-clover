@@ -396,7 +396,7 @@
         "fb_price": 580000,
         "quantity": 1,
         "sp_price": "Không hỗ trợ",
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/IAvRp3Zcdf4",
@@ -513,7 +513,7 @@
         "fb_price": 55000,
         "quantity": 0,
         "sp_price": 88000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/product/577527238/42027348135/"
       }
     ],
     "video": "",
@@ -2066,16 +2066,16 @@
   "ba-tuoc-tieu-thu-tap-5-7-9-11-12-manga-le": {
     "options": [
       {
-        "name": "Tập 5",
+        "name": "Tập 7",
         "fb_price": 40000,
-        "quantity": 0,
+        "quantity": 1,
         "sp_price": 66000,
         "sp_link": "https://shopee.vn/product/577527238/42061161143/"
       },
       {
-        "name": "Tập 7",
+        "name": "Tập 5",
         "fb_price": 40000,
-        "quantity": 1,
+        "quantity": 0,
         "sp_price": 66000,
         "sp_link": "https://shopee.vn/product/577527238/42061161143/"
       },
@@ -2189,7 +2189,7 @@
         "fb_price": 670000,
         "quantity": 0,
         "sp_price": "Không hỗ trợ",
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "https://www.youtube.com/embed/obpLJmHXXxg",
@@ -2202,7 +2202,7 @@
         "fb_price": 45000,
         "quantity": 0,
         "sp_price": 73000,
-        "sp_link": ""
+        "sp_link": "https://shopee.vn/clover.hcm"
       }
     ],
     "video": "",
